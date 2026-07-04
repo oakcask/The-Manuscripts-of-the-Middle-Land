@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suspicious Translator AI"
+  short_description: "Write with the suspicious translator voice"
+  default_prompt: "Use $suspicious-translator-ai to draft an unstable translator note or preface."

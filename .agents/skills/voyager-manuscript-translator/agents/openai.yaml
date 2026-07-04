@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voyager Manuscript Translator"
+  short_description: "Write with the Second Manuscript voice"
+  default_prompt: "Use $voyager-manuscript-translator to draft a myth fragment as a voyage manual and warning text."

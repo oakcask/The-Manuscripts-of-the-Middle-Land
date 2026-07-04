@@ -1,0 +1,4 @@
+interface:
+  display_name: "Censored Manuscript Translator"
+  short_description: "Write with the censored manuscript voice"
+  default_prompt: "Use $censored-manuscript-translator to draft an official redacted myth fragment."

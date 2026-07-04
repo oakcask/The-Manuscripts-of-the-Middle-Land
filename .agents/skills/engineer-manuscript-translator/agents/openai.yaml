@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineer Manuscript Translator"
+  short_description: "Write with the engineer manuscript voice"
+  default_prompt: "Use $engineer-manuscript-translator to draft a myth fragment as degraded technical record."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Heretical Manuscript Translator"
+  short_description: "Write with the heretical manuscript voice"
+  default_prompt: "Use $heretical-manuscript-translator to draft a forbidden variant of a myth fragment."

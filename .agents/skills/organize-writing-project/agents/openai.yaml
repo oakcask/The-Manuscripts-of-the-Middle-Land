@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organize Writing Project"
+  short_description: "Structure fiction notes and drafts"
+  default_prompt: "Use $organize-writing-project to organize this writing project."

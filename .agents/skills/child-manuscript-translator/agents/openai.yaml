@@ -1,0 +1,4 @@
+interface:
+  display_name: "Child Manuscript Translator"
+  short_description: "Write with the child manuscript voice"
+  default_prompt: "Use $child-manuscript-translator to draft a softened child-facing myth fragment."

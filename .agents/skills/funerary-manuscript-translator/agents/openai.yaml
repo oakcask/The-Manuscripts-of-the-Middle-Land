@@ -1,0 +1,4 @@
+interface:
+  display_name: "Funerary Manuscript Translator"
+  short_description: "Write with the funerary manuscript voice"
+  default_prompt: "Use $funerary-manuscript-translator to draft a light-funeral myth fragment."

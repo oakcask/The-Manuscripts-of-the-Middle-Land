@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orthodox Manuscript Translator"
+  short_description: "Write with the First Manuscript voice"
+  default_prompt: "Use $orthodox-manuscript-translator to draft a myth fragment in the orthodox manuscript voice."
