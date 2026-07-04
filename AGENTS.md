@@ -29,4 +29,5 @@
 * Create the matching Japanese version as `*.ja.md` in the same location.
 * Treat the English version as the primary drafting text, because resolving ambiguity after drafting first in Japanese makes later English translation much harder.
 * Keep both language versions aligned in structure, scene order, terminology choices, and notes unless the user explicitly asks for a language-specific adaptation.
+* Keep translator-facing uncertainty out of myth bodies. Put comments about rendered terms, original wording, manuscript comparison, or translation doubt in translator notes or `lexicon/`, and express ambiguity in the myth body through ritual action or image.
 * When revising Japanese myths, translations, or stories, follow `lexicon/style-guardrails.md` for lexical clarity. Do not preserve an English ambiguity by literal translation when the Japanese phrase becomes opaque.

@@ -40,7 +40,7 @@ The making of the ship began with gathering, not with cutting. The gentler word 
 
 No house was taken before its doorway had been named. No field was folded before its boundary stones had been touched by those who had worked it. No grave was opened without the consent of the living, and where consent could not be known, the elders chose the gentler uncertainty and sang as if permission had been granted in sleep. So the ordered telling keeps its face turned toward mercy.
 
-They made lists, but the lists were sung. They made containers, but the containers were blessed before they were sealed. They counted persons, though the word rendered as persons becomes uncertain here. Those who could speak gave their names. Those who could not speak were named by the ones who held them. Those beneath the ground were called in the order of burial, then in the order of love, then in the order of forgotten relation, lest any be lost merely because memory had become poor.
+They made lists, but the lists were sung. They made containers, but the containers were blessed before they were sealed. They counted all who bore names. Those who could speak gave their names. Those who could not speak were named by the ones who held them. Those beneath the ground were called in the order of burial, then in the order of love, then in the order of forgotten relation, lest any be lost merely because memory had become poor.
 
 At the center of the Middle Land, where the oldest songs place a hill and the damaged memory leaves a blank, the keepers prepared the chamber of cool names. Into it they brought the names that could no longer be warmed by use: first mother, first sea, first hunger, first morning, first animal whose shape no singer could keep steady, first tool, first wound, first law, first lie, first burial. They did not discard these names. They cooled them so they would not decay. They cooled them so that a later warmth, if granted, might find them still distinct.
 
@@ -93,5 +93,7 @@ Therefore the reciters end the chapter with the formula still used before uncert
 ## Translator's Note
 
 The First Manuscript presents ship-making as preservation. The term rendered as ship remains unstable: vessel, converted land, collective body, archive, enclosure, or coffin.
+
+The phrase rendered above as all who bore names should not be narrowed too quickly into the living, the speaking, or the biologically human. The same counting includes those who speak, those held by others, and those beneath the ground. The witness appears to preserve a category of belonging wider than person, while still forcing the received language to say people elsewhere in the chapter.
 
 The phrases preserving sleep, cooled names, and light-burial are likewise provisional. They may refer to ritual states, funerary procedures, transfer into a durable medium, or a form of death made socially bearable by liturgical language. The manuscript's restraint is not evidence that the event was gentle. It is evidence that this witness was copied by a community for whom survival required the event to remain speakable.

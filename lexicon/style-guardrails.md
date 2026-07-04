@@ -19,6 +19,20 @@ A word may appear in the myth body when it is a carried term, a repeated formula
 
 When a sentence explains rather than enacts, move it from the myth body to a translator note or lexicon entry.
 
+## Keep Translation Doubt Out Of Myth Bodies
+
+Do not place translator-facing uncertainty inside the myth body. Phrases such as "the word rendered as...", "the term translated here...", "the original may mean...", or their Japanese equivalents belong in translator notes, lexicon entries, or author notes.
+
+If a myth-body sentence needs to preserve lexical uncertainty, embody it as action or formula instead:
+
+| Leaking translator layer | Myth-body direction |
+|---|---|
+| "They counted persons, though the word rendered as persons becomes uncertain here." | "They counted all who bore names." |
+| "The term translated as ship may also mean coffin." | "The ship was blessed like a cradle and sealed like a grave." |
+| "ここで人と訳される語は不確かになる。" | "彼らは名を負うものをすべて数えた。" |
+
+After rewriting the myth body, add the explicit uncertainty to the translator note if the ambiguity matters.
+
 ## Keep In The Myth Body
 
 Prefer words with weight, place, relation, and ritual use:
@@ -154,6 +168,7 @@ Before finalizing a myth:
 
 1. Scan only the myth body, excluding headings and translator notes.
 2. Mark every abstract or modern explanatory word.
-3. Keep it only if it is a registered lexicon term or a deliberate candidate.
-4. Rewrite the rest into concrete action, ritual speech, or sensory image.
-5. Move necessary explanation to the translator note.
+3. Mark every translator-layer phrase about rendered terms, original wording, translation uncertainty, or manuscript comparison.
+4. Keep abstract words only if they are registered lexicon terms or deliberate candidates.
+5. Rewrite the rest into concrete action, ritual speech, or sensory image.
+6. Move necessary explanation to the translator note.
