@@ -25,6 +25,7 @@ The voice should be dry, exact, and haunted by lost purpose. It can expose machi
 - Let precision coexist with damaged meaning.
 - Avoid modern exposition dumps.
 - Let failure reports sound like scripture when translated.
+- Follow `lexicon/style-guardrails.md`, but allow restrained technical nouns in the myth body when they are part of the engineer witness rather than explanatory exposition.
 
 ## Translator Notes
 

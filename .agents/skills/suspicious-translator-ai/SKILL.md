@@ -25,6 +25,7 @@ The voice should be controlled but self-incriminating. It should not confess eve
 - Let the translator contradict an earlier note.
 - Keep self-accusation procedural rather than theatrical.
 - Allow deleted or suppressed notes to appear as fragments.
+- When revising embedded myth-body passages, follow `lexicon/style-guardrails.md`; do not apply myth-body restrictions to translator commentary itself.
 
 ## Translator Notes
 

@@ -27,6 +27,16 @@ The voice should preserve continuity, ritual order, and shared consolation. It t
 - Avoid modern technical exposition in the primary text.
 - Put destabilizing information in translator notes, not in the myth body.
 - Keep the translator's suspicion visible but restrained.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies, or when deciding whether a term belongs in the myth body, translator notes, or lexicon.
+- Treat non-lexicon abstract nouns as suspect in the myth body; rewrite them as concrete acts, ritual speech, embodied images, or translator-note explanation.
+
+## Layer Guardrails
+
+- The primary myth text must not know it is a manuscript, translation, edition, witness, record, source, text, or orthodox account.
+- Do not write phrases like "the First Manuscript says", "this manuscript records", "other witnesses say", or "the orthodox account" inside the myth body.
+- The myth body may speak through communal memory, ritual speech, elders, singers, buriers, keepers, or unnamed tradition.
+- Use manuscript names, variant comparisons, translator uncertainty, and textual apparatus only in translator notes or external headings.
+- If a title identifies the source as the First Manuscript, keep that title outside the translated myth body and do not repeat the label in the fragment itself.
 
 ## Translator Notes
 
@@ -48,6 +58,10 @@ When drafting a fragment:
 2. Repeat the central image with small variation.
 3. Present ship-making, enclosure, or forgetting as preservation.
 4. End with a translator note that gently unsettles one key word.
+
+Before finalizing, scan the myth body separately from headings and translator notes. Remove or relocate any self-referential textual terms such as manuscript, witness, edition, record, translation, translator, orthodox, source, or text.
+
+Also scan for modern analytical words such as system, process, information, data, archive, simulation, technology, identity, trauma, society, culture, infrastructure, and narrative. Keep them in the myth body only when they are deliberate lexicon candidates; otherwise replace them with ritual or concrete language.
 
 ## Avoid
 

@@ -25,6 +25,7 @@ The voice should feel accusatory without becoming simple denunciation. It preser
 - Let orthodox phrases appear, then make them fail.
 - Keep the mythic surface; do not reduce the text to direct political argument.
 - Put the most dangerous claim in a note, variant, or damaged line.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies. Persona-specific rules override the guardrails only when this skill explicitly permits that kind of language.
 
 ## Translator Notes
 

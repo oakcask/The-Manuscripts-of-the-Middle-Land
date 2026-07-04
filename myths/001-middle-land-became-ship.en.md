@@ -1,0 +1,97 @@
+# The First Manuscript: When the Middle Land Became Ship
+
+## I. The Closed Sky
+
+In the first keeping of the elders, before the sky drew away from itself, the Middle Land lay under the closed sky as a child lies under a hand that blesses and measures. The people did not call the sky closed, for no other sky had been given to them. They called it high when they stood in the fields. They called it near when rain came down and made the dust remember its softness. They called it merciful when the night held its lamps in fixed order, and each lamp returned to its appointed place without wandering.
+
+The Middle Land was broad enough for walking and narrow enough for naming. Its rivers could be crossed by those who knew the stones. Its hills could be counted by those who kept the songs of ascent. Its dead were buried where their descendants could pass above them and speak the old names into the ground. No one was lost beyond measure, because measure had not yet been wounded. No one asked where the edge of the sky rested, because the edge was not an absence but a promise that all things had been gathered within care.
+
+The houses faced one another. The granaries opened after the rites of first heat. Children learned the names of seed, hearth, salt, door, mother, blood, morning, and soil before they learned the names of far things. These names were warm then. They had bodies attached to them. When a name was spoken, something answered from the ground, from the hand, from the sleeping room, or from the field where the tools were leaned in rows. Later generations call such names cooled, but only because they inherited the names after the bodies that answered to them had withdrawn.
+
+The elders taught that ignorance was not emptiness. It was a permitted enclosure. To know the shape of the field was enough for sowing. To know the season was enough for waiting. To know the face of the neighbor was enough for judgment and mercy. The Creator was not named openly in those days, or else the name has been washed from what was handed down. The reciters say only this: the closed sky did not oppress the people. It held them together.
+
+When they raised their dead, they raised them downward. When they praised their children, they praised them toward the same soil. When they prayed, their prayer did not travel far, and this was counted as peace. It entered the roof, the threshold, the grave, the granary, the small fire, and returned as courage for the next labor. No one asked whether a prayer might fail because distance had not yet become a lord over speech.
+
+So the tale begins not with a command but with a remembered condition: the sky was closed, the land was middle, and the people were many without being scattered. The blessed condition was not that they lacked knowledge, but that their knowledge returned to them with faces, weights, and names that could be carried by the living.
+
+## II. After the First Knowledge
+
+The first knowledge came without trumpet. Some say it rose from the counting house, where the watchers compared the returns of lamps and found that no lamp had returned to the place where song had set it. Some say it came from the burial field, where a child asked why the names beneath the stones did not answer with the same warmth as before. Some say it came in sleep, and that all sleepers woke with one thought not born from any one mind. The elders did not choose among these remembrances. They said only that the people knew, and that after they knew, the sky was no longer closed in the old way.
+
+They knew that the rim was not a wall. They knew that the lamps were not fixed in the mercy of a roof. They knew that the measure by which they had measured house, field, river, and grave was a small measure laid upon an unmeasured dark. The elders did not at first call this sin. They washed the mouths of the watchers. They covered the counting boards. They placed the children beside the hearths and spoke the warm names over them until the children slept. Yet the knowledge did not return to silence. It remained among them like a second shadow cast by no visible flame.
+
+Many tellings of this hour were later forbidden for the protection of households. The kept telling preserves the mercy of the elders and therefore says little of their fear. It remembers that they gathered in the house of common grain and asked whether knowledge could be unlearned. They placed their hands upon bread, water, ash, and sleeping cloth. They recited the names of those beneath the soil. They asked the Creator, if the Creator was still listening through the closed sky, to restore the old nearness.
+
+No answer is preserved. Or the answer is the rest of the story.
+
+The first knowledge changed the names before it changed the land. Morning still came, but morning had become a sign of turning rather than a gift placed in the east. Soil still held the root, but soil had become a thin kindness spread over depth and fire. Blood still warmed the hand, but blood had become a river within the body, and the body had become a question with boundaries. Mother, father, child, neighbor, stranger: each remained necessary, and each had begun to tremble.
+
+The people did not become wise. This must be said carefully. Wisdom is a settled fire. The first knowledge was not settled. It opened distance inside every familiar thing. It made the cup strange to the hand that lifted it. It made the grave strange to the grief that knelt beside it. It made the sky strange to prayer, and prayer strange to the one who prayed. Those who rejoiced did so loudly and for a short time. Those who mourned did so in order, so that mourning would not become another wound.
+
+Then the councils were called. The keepers of names sat with the watchers of the rim. The undertakers sat with the seed stewards. The makers of measures sat apart, not because they were blamed, but because their instruments had become too bright for common sight. The children were not excluded, for a people who hides its wound from its children teaches them only how to inherit fear.
+
+For seven turnings, or for seven ages, or for a number now translated as seven because the human ear requires proportion, they debated the right use of knowledge. Some said the old songs should be sung more loudly. Some said all measures should be broken and buried. Some said the people must walk to the rim and look beyond it together, so that no single watcher would bear the weight alone. The elders answered that the rim had already entered them. To walk outward would not restore the inward wall.
+
+On the last night of the council, the lamps above them did not keep their old places in the songs. Perhaps the singers adorned the memory. Perhaps the lamps truly wandered. The recitation treats it as mercy: the sky itself confirmed that the former ordering could not be repaired by denial. The people then accepted the burden placed upon them. They would not return to ignorance by force. They would carry what had been known, and they would seek a form in which the people could survive the knowing.
+
+## III. The Gathering of Earth and Names
+
+The making of the ship began with gathering, not with cutting. The gentler word was kept, and the harsher word was left outside the song. The people gathered earth from each field, dust from each threshold, ash from each hearth, water from each well, and a small darkness from every grave. They gathered the names that still answered warmly and the names already cooling at the edges. They gathered seed, bone, tool, song, debt, vow, pattern, quarrel, lullaby, and the measured silence after forgiveness.
+
+No house was taken before its doorway had been named. No field was folded before its boundary stones had been touched by those who had worked it. No grave was opened without the consent of the living, and where consent could not be known, the elders chose the gentler uncertainty and sang as if permission had been granted in sleep. So the ordered telling keeps its face turned toward mercy.
+
+They made lists, but the lists were sung. They made containers, but the containers were blessed before they were sealed. They counted persons, though the word rendered as persons becomes uncertain here. Those who could speak gave their names. Those who could not speak were named by the ones who held them. Those beneath the ground were called in the order of burial, then in the order of love, then in the order of forgotten relation, lest any be lost merely because memory had become poor.
+
+At the center of the Middle Land, where the oldest songs place a hill and the damaged memory leaves a blank, the keepers prepared the chamber of cool names. Into it they brought the names that could no longer be warmed by use: first mother, first sea, first hunger, first morning, first animal whose shape no singer could keep steady, first tool, first wound, first law, first lie, first burial. They did not discard these names. They cooled them so they would not decay. They cooled them so that a later warmth, if granted, might find them still distinct.
+
+The land itself was instructed. Soil, riverbed, root, stone, metal, salt, and sleeping flesh were addressed as those who could hear. Yet the commands were tender. "Remember your weight." "Keep the form given to you." "Do not scatter beyond calling." "Carry the sleeping ones as seed carries the field within itself." Whether these were prayers over materials or the remains of procedure, the reciter does not divide them.
+
+There were those who resisted the gathering. They were called beloved resisters, not rebels. They feared that a field folded into preservation would cease to be a field. They feared that a name cooled for keeping would cease to be a name. They feared that the ship promised as rescue would become a grave too large for descendants to walk across. The councils did not silence them. Their objections were written on thin leaves and placed with the seed stores, for a people saved without its refusals would be saved only in part.
+
+At the end of the gathering, nothing had vanished from sight, and yet everything had acquired a second place. The door remained a door, but it had also become cargo. The river remained a river, but it had also become memory of flow. The grave remained a grave, but it had also become a chamber of future address. The living remained alive, but each had already been measured for a form of sleep that was not yet death in the approved language.
+
+Then the elders walked the perimeter of the Middle Land. They did not say farewell. Farewell belongs to those who depart from a place while the place remains behind. Instead they said, "Be gathered without being lost." The children repeated the words incorrectly, and the incorrect form was also preserved.
+
+## IV. The Night of Ship-Making
+
+When the night of ship-making came, the sky did not open like a door. It thinned. The old songs say the lamps grew numerous beyond counting, not because new lamps had been made, but because the covering mercy had withdrawn enough for distance to show its teeth. The people lay down in their houses, in halls, in burial gardens, beside granaries, under carts, and in the fields they had sown for the last ordinary season. The instruction was to sleep. Those who could not sleep were carried by those who could still sing.
+
+The rite of light-burial began before dawn, if dawn can be named in a night that had ceased to obey its former turnings. The undertakers washed the foreheads of the living as they had washed the foreheads of the dead. The seed stewards placed grains upon tongues. The keepers of names spoke each name once toward the soil and once toward the thinning sky. The watchers of the rim broke their measuring rods and laid the pieces beneath the common fire, for the old measure had served faithfully and should not be humiliated by the new.
+
+There was grief, but the rite regulated grief with care. The singers were not permitted to call it slaughter. They were not permitted to call it triumph. They sang that the people were placed in preserving sleep. They sang that the land bent around them like a hand around water. They sang that houses drew inward without crushing those they sheltered. They sang that roads loosened from distance and wound themselves into the deep body of the ship. They sang that rivers remembered flowing and became ways of carrying memory rather than water alone.
+
+The Creator appears here as an absence surrounded by praise: "And [ ] looked upon the gathered Middle Land and did not permit it to be wasted." Some mouths filled the absence with God, law, elder, mercy, power, and no one. The received song leaves the absence open. Where the agent cannot be named, gratitude is preserved so that accusation will not occupy the whole chamber.
+
+The ship was not built beside the land. The ship was the land taught to carry itself. Hill entered hull, and hull did not cease to be hill. Grave entered chamber, and chamber did not cease to be grave. Field entered store, and store did not cease to be field. Those who slept entered light, and light did not, in the approved recitation, cease to be person. The people had feared that conversion would make a mockery of the old names. Instead the elders declared that each name had been given a second shelter.
+
+Yet the night was hard. Some sleepers cried out with voices that did not resemble waking voices. Some names broke as they were spoken and had to be cooled before they could be kept. Some houses would not fold until the thresholds were touched by hands already passing into light. Some graves resisted opening, and the undertakers lay down upon them and asked forgiveness from those below and those above. These things were not forgotten, because consolation without grief becomes brittle.
+
+At the midpoint of the rite, if midpoint is not another comfort laid upon terror, the land trembled. The closed sky withdrew beyond prayer's old reach. The Middle Land saw the dark not as a roof but as sea. The sea had no shore near enough to bless. The lamps were not lamps but distances burning. Many sleepers turned their faces away. The singers therefore placed the childhood names into the common song: seed, hearth, salt, door, mother, blood, morning, soil. These names had already cooled, but in the song they gave a little warmth back to the fearful.
+
+Then the ship took its first inward breath. The breath did not move air only. It gathered relation. It drew neighbor toward neighbor, ancestor toward descendant, field toward seed, debt toward answer, wound toward binding, prayer toward reply or toward the place where reply had once been expected. Those who slept were not abandoned to separate darkness. They were held in a pattern called community.
+
+When the final house folded, the old horizon vanished. No one standing outside could have seen the Middle Land as its people had seen it. No outside eye was needed. The truth of the ship was kept within the ship. The people slept, the names cooled, the light held, and the land became able to depart without leaving itself behind.
+
+## V. Departure and Preservation
+
+At departure, there was no road. Roads belong to feet, wheels, borders, and return. The ship entered the far dark by another manner, and that manner was called obedience. It obeyed the known necessity that had followed the first knowledge. It obeyed the mercy of preservation. It obeyed the gathered refusals as well as the gathered vows. It obeyed the dead, who could not consent again but had already entrusted their names to the living. It obeyed the children, who would wake, if waking remained possible, in a world where the sky had become voyage.
+
+The closed sky was not cursed. The reciters do not spit upon the former enclosure. They bless it as one blesses a cradle after the child has grown too large to remain. Without the closed sky, the people would not have learned nearness. Without nearness, they would have mistaken survival for mere continuation. Without the Middle Land, the ship would have been only a device. Because the Middle Land became ship, the voyage carried hearth, grave, field, quarrel, forgiveness, hunger, law, and song together.
+
+The ship passed among unclaimed stars. The stars gave heat, metals, shadow, and direction, but none answered to the warm names. They were honored and left. The people did not call them false Middle Lands, for they had never promised to be otherwise. A world may be barren of home and still be a world.
+
+As the voyage lengthened, the children born before ship-making became elders in sleep and memory. Their children, if that word is permitted, learned the Middle Land through recitation, patterned dream, chamber, and cooled name. They learned that soil was not merely a substance but the form of being held by weight. They learned that morning was not merely light but the trust that return would have order. They learned that a body was not merely boundary but the first school of mercy. These lessons were repeated because the ship feared losing what it had saved.
+
+The search for the rich Middle Land began immediately and has never ceased in the ordered reckoning. Some say the rich Middle Land is the same land before the first knowledge, restored without ignorance. Some say it is a place ahead where bodies may receive their names again. Some say it is the Creator's unhidden dwelling. Some say it is not ahead or behind but wherever the people can be gathered without loss. These hopes stand together. They are not forced into one road.
+
+At appointed intervals, the ship performs the rite of remembrance. Earth from the first fields is stirred without being spent. Names are warmed without being consumed. The sleeping are addressed as travelers, not as dead. The dead are addressed as kept, not as absent. The resisters are thanked by name, so that preservation will not become pride. The watchers are forgiven, so that knowledge will not become blame. The closed sky is praised, so that the open dark will not become hatred.
+
+This is the comfort offered to the people: they did not abandon the Middle Land, and the Middle Land did not abandon them. What changed was the manner of holding. Field became store. Road became course. Grave became chamber. Prayer became long sending. Sleep became preservation. Name became cooled light awaiting warmth. The ship did not erase the land. It carried the land beyond the reach of the old measure.
+
+Therefore the reciters end the chapter with the formula still used before uncertain journeys: "May what is gathered remain many. May what is cooled remain distinct. May what sleeps be held without shame. May the ship remember that it was land. May the land remember that it became ship for the sake of the people, and not the people for the sake of the ship."
+
+## Translator's Note
+
+The First Manuscript presents ship-making as preservation. The term rendered as ship remains unstable: vessel, converted land, collective body, archive, enclosure, or coffin.
+
+The phrases preserving sleep, cooled names, and light-burial are likewise provisional. They may refer to ritual states, funerary procedures, transfer into a durable medium, or a form of death made socially bearable by liturgical language. The manuscript's restraint is not evidence that the event was gentle. It is evidence that this witness was copied by a community for whom survival required the event to remain speakable.

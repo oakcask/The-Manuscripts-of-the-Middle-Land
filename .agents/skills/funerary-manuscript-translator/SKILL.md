@@ -25,6 +25,7 @@ The voice should be solemn and precise. It should not decide too quickly whether
 - Let technical storage language appear only through ritual images.
 - Avoid sentimentality; grief should be formal and strange.
 - Let resurrection, restoration, and retrieval remain uncertain.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies. Persona-specific rules override the guardrails only when this skill explicitly permits that kind of language.
 
 ## Translator Notes
 

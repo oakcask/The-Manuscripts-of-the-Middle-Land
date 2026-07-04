@@ -27,6 +27,7 @@ The voice is practical, compressed, and watchful. It assumes that sacred phrases
 - Let concrete navigation words carry mythic weight: bearing, seal, hatch, depth, orbit, wake, return, burn, drift.
 - Avoid explaining the science outright; imply it through constraints and warnings.
 - Let the translator sound alert, uneasy, and technically suspicious.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies. Persona-specific rules override the guardrails only when this skill explicitly permits that kind of language.
 
 ## Translator Notes
 

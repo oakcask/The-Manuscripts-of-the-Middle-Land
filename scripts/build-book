@@ -1,0 +1,122 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+BOOK_SRC="book-src"
+
+rm -rf "$BOOK_SRC"
+mkdir -p "$BOOK_SRC"
+
+copy_markdown_tree() {
+  local dir="$1"
+
+  if [ ! -d "$dir" ]; then
+    return
+  fi
+
+  find "$dir" -type f -name '*.md' -print0 | while IFS= read -r -d '' file; do
+    local dest="$file"
+
+    if [ "$file" = "lexicon/README.md" ]; then
+      dest="lexicon/lexicon-readme.md"
+    fi
+
+    mkdir -p "$BOOK_SRC/$(dirname "$dest")"
+    cp "$file" "$BOOK_SRC/$dest"
+  done
+}
+
+title_for() {
+  local file="$1"
+  local title
+
+  title="$(sed -n 's/^# //p' "$file" | head -n 1)"
+  if [ -n "$title" ]; then
+    printf '%s\n' "$title"
+  else
+    basename "$file" .md
+  fi
+}
+
+append_entry() {
+  local file="$1"
+
+  append_entry_from "$file" "$file"
+}
+
+append_entry_from() {
+  local file="$1"
+  local link="$2"
+  local title
+
+  if [ ! -f "$file" ]; then
+    return
+  fi
+
+  title="$(title_for "$file")"
+  printf -- '- [%s](%s)\n' "$title" "$link" >> "$BOOK_SRC/SUMMARY.md"
+}
+
+append_lang_section() {
+  local lang="$1"
+  local dir
+
+  for dir in translations myths stories; do
+    find "$dir" -maxdepth 1 -type f -name "*.$lang.md" | sort | while IFS= read -r file; do
+      append_entry "$file"
+    done
+  done
+}
+
+append_lexicon_section() {
+  append_entry "lexicon/index.md"
+
+  find lexicon -maxdepth 1 -type f -name '*.md' ! -name 'index.md' | sort | while IFS= read -r file; do
+    if [ "$file" = "lexicon/README.md" ]; then
+      append_entry_from "$file" "lexicon/lexicon-readme.md"
+    else
+      append_entry "$file"
+    fi
+  done
+
+  find lexicon/terms -maxdepth 1 -type f -name '*.md' | sort | while IFS= read -r file; do
+    append_entry "$file"
+  done
+}
+
+for dir in myths stories translations lexicon; do
+  copy_markdown_tree "$dir"
+done
+
+cat > "$BOOK_SRC/README.md" <<'EOF'
+# はじめに
+
+この読書ビューは、原稿ディレクトリを移動せずに生成した mdBook 用の閲覧ソースです。
+
+本文は日本語版と English Edition に分け、語彙集は独立した参照セクションとして並べています。
+EOF
+
+cat > "$BOOK_SRC/SUMMARY.md" <<'EOF'
+# Summary
+
+[はじめに](README.md)
+
+# 日本語版
+EOF
+
+append_lang_section "ja"
+
+cat >> "$BOOK_SRC/SUMMARY.md" <<'EOF'
+
+# English Edition
+EOF
+
+append_lang_section "en"
+
+cat >> "$BOOK_SRC/SUMMARY.md" <<'EOF'
+
+# 語彙集
+EOF
+
+append_lexicon_section
+
+printf 'Generated %s\n' "$BOOK_SRC"

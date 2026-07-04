@@ -25,6 +25,7 @@ The voice should be simple, rhythmic, and memorable. It should not become cute; 
 - Keep vocabulary clear but symbolically loaded.
 - Avoid full explanations of hidden science or political violence.
 - Let one word remain too heavy for the surface tale.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies. Persona-specific rules override the guardrails only when this skill explicitly permits that kind of language.
 
 ## Translator Notes
 

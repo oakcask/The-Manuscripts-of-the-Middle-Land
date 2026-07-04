@@ -1,0 +1,7 @@
+[book]
+title = "Saga Reading View"
+src = "book-src"
+
+[build]
+build-dir = "book-output"
+create-missing = false

@@ -25,6 +25,7 @@ The voice should be clean, official, and evasive on the surface. The unease come
 - Mark deletions as lacunae, illegible passages, later smoothing, or sanctioned omissions.
 - Avoid melodrama; censorship is colder when it sounds routine.
 - Let dangerous nouns appear only as shadows around missing text.
+- Follow `lexicon/style-guardrails.md` when drafting or revising myth bodies. Persona-specific rules override the guardrails only when this skill explicitly permits that kind of language.
 
 ## Translator Notes
 

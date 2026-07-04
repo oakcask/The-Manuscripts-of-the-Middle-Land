@@ -1,6 +1,6 @@
 ---
 name: organize-writing-project
-description: Organize prose-writing projects that start from chat logs or brainstorming notes, especially chat.md-style fiction, mythology, worldbuilding, translation-frame, or short-story work. Use when Codex needs to propose, create, or maintain a directory structure for drafts, notes, setting materials, myths, stories, translated/commented texts, and generated outputs.
+description: Organize prose-writing projects that start from chat logs or brainstorming notes, especially fiction, mythology, worldbuilding, translation-frame, or short-story work. Use when Codex needs to propose, create, or maintain a directory structure for drafts, notes, setting materials, myths, stories, translated/commented texts, and generated outputs.
 ---
 
 # Organize Writing Project
@@ -15,6 +15,7 @@ Prefer this structure for a new or small prose project:
 .
 ├── README.md
 ├── notes/
+│   └── 00-core.md
 ├── world/
 │   ├── overview.md
 │   ├── chronology.md
@@ -38,7 +39,7 @@ Prefer this structure for a new or small prose project:
 
 ## Directory Roles
 
-- `notes/`: Keep raw chat logs, brainstorming, discarded ideas, and work-in-progress fragments that are not yet canonical.
+- `notes/`: Keep brainstorming, discarded ideas, work-in-progress fragments, and organized source notes that are not yet canonical.
 - `world/`: Keep author-facing continuity material and private hypotheses. Use this for facts, timelines, terms, language notes, and unresolved interpretive possibilities.
 - `myths/`: Keep in-world myth texts, fragments, variants, genealogies, hymns, scripture-like passages, and other primary source material.
 - `stories/`: Keep short stories and prose drafts derived from the myth or world material.
@@ -49,7 +50,7 @@ Prefer this structure for a new or small prose project:
 
 - Use numbered filenames when reading order matters: `001-creation.md`, `002-knowledge.md`.
 - Use descriptive lowercase names for reference files: `terms.md`, `language.md`, `chronology.md`.
-- Keep exploratory conversations in `notes/` instead of mixing them with canonical drafts.
+- Keep exploratory notes in `notes/` instead of mixing them with canonical drafts.
 - Keep generated files out of source directories, even when they are human-readable.
 
 ## Worldbuilding Rule
@@ -69,8 +70,8 @@ Keep unresolved alternatives visible until a specific story requires narrowing t
 When reorganizing an existing project:
 
 1. Inspect current files and identify source versus output.
-2. Move raw chat logs to `notes/`.
-3. Extract stable setting material into `world/`.
+2. Organize stable source material into `notes/` or `world/`, depending on the project's existing structure.
+3. Extract continuity material into `world/` when that directory exists.
 4. Put in-world primary texts in `myths/`.
 5. Put finished or draft fiction in `stories/`.
 6. Put translator-frame material in `translations/`.
