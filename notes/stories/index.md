@@ -7,6 +7,7 @@
 | 番号 | 仮題 | 計画ノート | 元になる神話 | 状態 |
 | --- | --- | --- | --- | --- |
 | 001 | 第一の知 | `001-first-knowledge.md` | `myths/002-first-knowledge.en.md` / `myths/002-first-knowledge.ja.md` | 三視点英語ドラフト作成済み |
+| 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/001-middle-land-became-ship.en.md` / `myths/001-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
 
 ## 本文ドラフト
 
@@ -15,6 +16,10 @@
 | 001 | The Last Unread Mark / 最後の読まれなかった印 | `stories/001-the-last-unread-mark.en.md` / `stories/001-the-last-unread-mark.ja.md` | 技術者写本 |
 | 002 | The Lost Lamp Found Its House / 失われた灯は自分の家を見つけた | `stories/002-the-lost-lamp-found-its-house.en.md` / `stories/002-the-lost-lamp-found-its-house.ja.md` | 子供向け写本 |
 | 003 | The Graves Were Too Small / 墓は小さすぎた | `stories/003-the-graves-were-too-small.en.md` / `stories/003-the-graves-were-too-small.ja.md` | 葬送写本 |
+| 004 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `stories/004-the-night-the-land-learned-to-carry-itself.en.md` / `stories/004-the-night-the-land-learned-to-carry-itself.ja.md` | 正統写本 |
+| 005 | The Loved Resistance / 愛された抵抗 | `stories/005-the-loved-resistance.en.md` / `stories/005-the-loved-resistance.ja.md` | 異端写本 |
+| 006 | After the Measuring Rods Were Broken / 測り棒が折られた後で | `stories/006-after-the-measuring-rods-were-broken.en.md` / `stories/006-after-the-measuring-rods-were-broken.ja.md` | 技術者・航海者写本 |
+| 007 | Until the Next Calling / 次の呼びかけまで | `stories/007-until-the-next-calling.en.md` / `stories/007-until-the-next-calling.ja.md` | 葬送写本 |
 
 ## 配置メモ
 

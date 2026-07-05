@@ -42,7 +42,7 @@ The watchers slept. While they slept, the house was quiet. The singers sang the 
 
 At first it seemed that mercy had prevailed. The watchers woke without crying out. They ate bread. They thanked those who had covered them. They did not speak of the rim. Yet when one child asked whether the lost lamp had found its house, every watcher turned toward the child at once, and the room knew that the knowledge had not slept.
 
-It had entered by the eye, but it did not remain in the eye. It entered the measure of the field. The field was still green, yet its greenness lay over depth and fire. It entered the cup. The cup still held water, yet water became a thing that could be absent from worlds without number. It entered the grave. The grave still held the dead, yet the dead now lay beneath a sky that had become vast enough to forget them.
+It had entered by the eye, but it did not remain in the eye. It entered the measure of the field. The field was still green, yet its greenness lay over depth and fire. It entered the cup. The cup still held water, yet water became a thing that might fail beyond every named shore. It entered the grave. The grave still held the dead, yet the dead now lay beneath a sky that had become vast enough to forget them.
 
 The first knowledge did not shout. It loosened. It loosened the old nearness between name and thing. It loosened the trust that every lamp had been placed for the people. It loosened the comfort by which the rim of the sky had received the weary eye and returned it home. It loosened even praise, for praise had to cross a distance it had not known it was crossing.
 
@@ -58,7 +58,7 @@ No answer came. Or the answer came as fear in every throat.
 
 ## IV. The Council of Names
 
-The council lasted for seven nights, or for seven turnings, or for a number whose true shape has cooled. The ordered telling keeps seven because seven can be held in the hand of memory. The people sat by callings: watchers of the rim, keepers of names, undertakers, seed stewards, makers of measures, singers, builders, healers, children old enough to remember, and elders old enough to forget without shame.
+The council lasted for seven nights, or for seven turnings, or until the count itself cooled in the hand of memory. The people sat by callings: watchers of the rim, keepers of names, undertakers, seed stewards, makers of measures, singers, builders, healers, children old enough to remember, and elders old enough to forget without shame.
 
 The makers of measures sat apart by their own request. They had not made the dark. They had not pushed the lamps from their houses. Yet their cords and boards had become bright with blame. The elders placed bread beside them first, so the people would see that blame was not the first food of the council.
 
@@ -84,7 +84,7 @@ After the council, the Middle Land looked unchanged to any careless eye. Doors o
 
 Yet the land had begun to carry a second weight. Each house was loved as house and also considered as something that might need to be held when house could no longer stand under the old sky. Each name was warmed by use and also guarded against the cold that had begun at its edges. Each grave was honored as resting place and also feared as a chamber too fixed for a world whose measure had been wounded.
 
-The elders ordered new rites, though they called them old as soon as they could. At dusk, families spoke the warm names and then kept one breath of silence for the names that no longer answered. At dawn, the watchers reported not only what they saw, but who had stood with them, so that no sight would become lonely. At burial, the undertakers asked the dead to forgive the living if the ground itself should one day be asked to move.
+The elders ordered rites that joined themselves to the old ones. At dusk, families spoke the warm names and then kept one breath of silence for the names that no longer answered. At dawn, the watchers reported not only what they saw, but who had stood with them, so that no sight would become lonely. At burial, the undertakers asked the dead to forgive the living if the ground itself should one day be asked to move.
 
 The people began to gather without yet knowing that they gathered. They placed copies of songs in more than one house. They carried soil between fields in bowls. They taught children the names of distant lamps, but always after seed, hearth, salt, door, mother, blood, morning, and soil. They learned to say, "not yet," when fear demanded a knife, and "not never," when comfort demanded sleep.
 
@@ -96,7 +96,7 @@ Then the elders spoke the burden aloud: "We have known, and knowing has not left
 
 The people answered with fear, with anger, with obedience, with refusal, with weeping, with bread passed from hand to hand. No single answer was pure enough to carry the day. Therefore all answers were carried.
 
-From that hour, the first knowledge ceased to belong to the watchers. It became the burden accepted by the Middle Land. The ship was not yet made, but the reason for the ship had entered every threshold. The closed sky was not yet gone, but its mercy had become memory. The people were not yet sleepers, not yet light, not yet cooled names awaiting warmth. They were still people of soil and breath, standing beneath a wounded measure, learning how not to abandon one another before the night of making came.
+From that hour, the first knowledge ceased to belong to the watchers. It became the burden accepted by the Middle Land. The ship was not yet made, but the reason for the ship had entered every threshold. The closed sky was not yet gone, but its mercy had become memory. The people still stood in soil and breath, with warm names in their mouths and the first cold at the edge of those names, learning how not to abandon one another before the night of making came.
 
 ## Translator's Note
 

@@ -31,3 +31,4 @@
 * Keep both language versions aligned in structure, scene order, terminology choices, and notes unless the user explicitly asks for a language-specific adaptation.
 * Keep translator-facing uncertainty out of myth bodies. Put comments about rendered terms, original wording, manuscript comparison, or translation doubt in translator notes or `lexicon/`, and express ambiguity in the myth body through ritual action or image.
 * When revising Japanese myths, translations, or stories, follow `lexicon/style-guardrails.md` for lexical clarity. Do not preserve an English ambiguity by literal translation when the Japanese phrase becomes opaque.
+* After changing files in `myths/`, use the project-local `manuscript-reviewer` skill in a separate Codex session when available to check for translator-AI knowledge leaks and manuscript voice-stance drift.

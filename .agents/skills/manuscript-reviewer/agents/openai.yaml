@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manuscript Reviewer"
+  short_description: "Review myth changes for knowledge leaks and voice stance"
+  default_prompt: "Use $manuscript-reviewer to review changed myth prose in `myths/` for translator-AI knowledge leaks and manuscript voice stance."

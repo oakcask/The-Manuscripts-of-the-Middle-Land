@@ -17,14 +17,19 @@
 |---|---|---|
 | 中つ国 | 場所と故郷 | `terms/places.md` |
 | 船 | 船と容器 | `terms/vessels.md` |
+| 第二の避け所 | 船と容器 | `terms/vessels.md` |
 | 第一の知 | 知識と観測 | `terms/knowledge.md` |
 | 創造主 | 知識と観測 | `terms/knowledge.md` |
 | 光葬 | 身体と人格 | `terms/bodies.md` |
+| 保存の眠り | 身体と人格 | `terms/bodies.md` |
+| 割れた名 | 身体と人格 | `terms/bodies.md` |
 | 黒い井戸 | 場所と故郷 | `terms/places.md` |
 | 観る罪 | 知識と観測 | `terms/knowledge.md` |
 | 歌い手 | 実践と制度 | `terms/practices.md` |
 | 朗誦 | 実践と制度 | `terms/practices.md` |
 | 墓守 | 実践と制度 | `terms/practices.md` |
+| 測り棒 | 実践と制度 | `terms/practices.md` |
+| 畳まれる | 船と容器 | `terms/vessels.md` |
 
 ## 索引のみの語
 

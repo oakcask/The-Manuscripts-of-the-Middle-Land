@@ -117,6 +117,10 @@ Do not preserve a strange English term by calque if the Japanese phrase blocks b
 
 For terms that are not registered in the lexicon, not flagged elsewhere in these guardrails, and not being deliberately introduced as lexicon candidates, prefer natural Japanese over hard literal translation. A local image or ordinary domestic word may be simpler than the English surface form. For example, `sleeping room` in an ordinary household scene can be `寝室`, not `眠りの部屋`, unless the passage intentionally pressures `sleep` as a ritual category.
 
+For ordinary English number + noun phrases, do not compress the Japanese into Sino-Japanese compounds when the phrase is not registered in the lexicon and is not being deliberately introduced as a ritual category. Prefer a transparent counted form such as `三つの夏` for `three summers` or `七つの夜` for `seven nights`, rather than `三夏` or `七夜`. Use compact forms only when they are established Japanese idiom, a title, an office, a registered lexicon term, or the passage intentionally needs the phrase to read like a named category.
+
+Natural ordinal expressions are not violations of this rule when they only mark sequence, such as `一夜目`, `二度目`, `三人目`, or `第三の切り目`. Keep them unless the phrase itself is being made to carry a ritual category or lexicon term.
+
 When the English source is a direct question, keep the Japanese line visibly interrogative. In dialogue, prefer ending the quoted Japanese sentence with `？` even when the sentence also uses question-marking phrasing such as `どうして`, `なぜ`, `...の`, or `...か`. Do not leave a translated direct question ending only with a Japanese closing quote unless a deliberately flat, unanswered, or liturgical non-question reading is explicitly intended.
 
 For English `servant`, do not translate as `僕`. In Japanese, `僕` is too easily read as first-person speech or a modern/casual male self-reference. Prefer `しもべ` when the passage needs biblical, ritual, or subordinate-service texture. Recast with `仕えるもの`, `従うもの`, or a concrete role name only when `しもべ` would sound too personified or too religious for the local sentence.
