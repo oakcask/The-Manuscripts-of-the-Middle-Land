@@ -26,7 +26,7 @@ Loved.
 
 The word went around me like a sleeping cloth. It warmed the shoulders. It covered the mouth.
 
-The other resisters stood along the field edge. Haret whose wife had been placed in preserving sleep three nights before the public rite. Mela who said a grave opened twice becomes a wound that learns no rest. Old Tam who had no child and therefore no descendant to walk over the promised grave if the ship became one. We had spoken plainly in the council house until the singers lowered their eyes.
+The other resisters stood along the field edge. Haret, whose wife had been placed in preserving sleep three nights before the public rite. Mela, who said a grave opened twice becomes a wound that learns no rest. Old Tam, who had no child and therefore no descendant to walk over the promised grave if the ship became one. We had spoken plainly in the council house until the singers lowered their eyes.
 
 A folded field is not a field.
 

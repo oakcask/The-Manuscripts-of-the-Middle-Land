@@ -44,6 +44,12 @@ When revising Japanese prose in `stories/`, also read `lexicon/style-guardrails.
 
 ## Drafting Rules
 
-When generating or revising prose in `stories/`, prioritize readability in both English and Japanese over preserving the more literal, ritualized texture used in `myths/`.
+When generating or revising prose in `stories/`, write as short fiction first, not as a myth-body translation.
 
-Keep myth-derived terms and repetitions only where they carry story pressure. Otherwise choose natural phrasing, especially in Japanese.
+Prioritize scene clarity, character action, emotional pressure, and readable sentence movement in both English and Japanese. Myth-derived terms, repetitions, ritual stiffness, and deliberately strange phrasing should remain only where they create a specific story effect in the local scene.
+
+For Japanese prose, do not preserve English word order, metaphor, or ambiguity when it makes the sentence harder to read before the story pressure is felt. Recast into natural Japanese unless the awkwardness is intentionally doing narrative work.
+
+When revising a story sentence, test whether the phrase would still be worth keeping if the reader did not know the myth-system behind it. If not, simplify it or move the pressure into action, dialogue, image, or surrounding context.
+
+Prefer one clear concrete phrase over a literal phrase that mainly signals hidden cosmology.

@@ -18,7 +18,7 @@ At dawn I planed the edge again. I hung the cord by the hearth and found no wetn
 
 On the second night the pale lamp leaned beyond the third cut again.
 
-On the third night we changed the quadrant. On the fourth we changed the rise. On the fifth we laid every tool on the ground and looked with naked mouths, saying nothing that might teach the lamps a new road.
+On the third night we changed the quadrant. On the fourth we changed the rise. On the fifth we laid every tool on the ground and looked with closed mouths, saying nothing that might teach the lamps a new road.
 
 The sky did not return.
 
