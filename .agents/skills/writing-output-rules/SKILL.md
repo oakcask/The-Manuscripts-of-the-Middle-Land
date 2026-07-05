@@ -22,13 +22,15 @@ For short-story prose in `stories/`, use `short-story-workflow` instead.
 
 ## Myth Body Boundaries
 
+When drafting, revising, or reviewing myth bodies, also use the project-local `myth-body-style` skill.
+
 Keep translator-facing uncertainty out of myth bodies.
 
 Put comments about rendered terms, original wording, manuscript comparison, or translation doubt in translator notes or `lexicon/`. Express ambiguity in the myth body through ritual action or image.
 
 ## Japanese Clarity
 
-When revising Japanese myths, translations, or stories, follow `lexicon/style-guardrails.md` for lexical clarity.
+When revising Japanese myths, translations, or stories, also use the project-local `japanese-translation-guardrails` skill for lexical clarity.
 
 Do not preserve an English ambiguity by literal translation when the Japanese phrase becomes opaque.
 

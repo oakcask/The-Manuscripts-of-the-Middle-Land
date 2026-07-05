@@ -10,7 +10,7 @@
 - `terms.md`: 詳細定義へのカタログ。長い定義本文は置かない。
 - `terms/`: 分類別の用語定義。訳語、原語仮説、語義候補、写本差、注釈方針を書く。
 - `ambiguity.md`: 語義の揺れを分類するための共通軸。
-- `style-guardrails.md`: 神話本文で使ってよい語、避けるべき説明語、lexicon へ昇格すべき語の判断基準。
+- `promotion-rules.md`: 語を lexicon へ昇格すべきかどうかの判断基準。
 
 ## 分類方針
 
@@ -27,7 +27,13 @@
 
 新しい語を追加するときは、まず `index.md` と `terms.md` の索引に置く。語が物語上重要になったら、分類ファイルへ詳細定義を昇格する。
 
-神話本文を執筆・改稿するときは、語を増やす前に `style-guardrails.md` を確認する。重要語は lexicon に入れ、説明のためだけの抽象語は神話本文から訳注または notes へ移す。
+## Style Guardrails
+
+- 神話本文を執筆・改稿するときは、project-local `myth-body-style` skill を使い、必要に応じて `promotion-rules.md` を読む。
+- 日本語 prose を作成・改稿するときは、project-local `japanese-translation-guardrails` skill を使う。
+- lexicon entry を追加・整理するときは、`promotion-rules.md` と関連する `terms/` ファイルを読む。
+
+重要語は lexicon に入れ、説明のためだけの抽象語は神話本文から訳注または notes へ移す。
 
 ## 管理方針
 

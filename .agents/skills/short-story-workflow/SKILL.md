@@ -19,7 +19,7 @@ Use this skill for short-story work:
 
 Before planning or revising a short story, read `notes/stories/README.md`.
 
-When revising Japanese prose in `stories/`, also read `lexicon/style-guardrails.md` for lexical clarity.
+When revising Japanese prose in `stories/`, also use the project-local `japanese-translation-guardrails` skill for lexical clarity.
 
 ## Placement Rules
 
