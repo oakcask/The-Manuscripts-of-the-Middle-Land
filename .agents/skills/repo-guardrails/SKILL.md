@@ -38,6 +38,8 @@ If the user is only brainstorming, discuss placement and tradeoffs without editi
 
 Default to progressive disclosure: keep `AGENTS.md` as a short entry point for always-on principles and skill discovery. Do not add task-specific procedures, command recipes, checklists, or troubleshooting flows to `AGENTS.md`; create or update a skill instead, then link to it from `AGENTS.md` only when agents must discover it by default.
 
+When adding a new rule, first decide when the rule must be read. If it is only needed for a specific task, put the rule in the narrowest relevant skill or README and make the skill description trigger that task. Leave only a short routing line in `AGENTS.md` when default discoverability is needed.
+
 Use `AGENTS.md` when:
 
 - The rule should shape default agent behavior across many tasks.
@@ -90,6 +92,10 @@ Use templates or documentation when:
 
 - Keep policy text short and concrete.
 - Before expanding `AGENTS.md`, check whether the content is a task-specific procedure that belongs in a skill.
+- For every new rule, identify its trigger: always-on, task-specific, directory-specific, terminology-specific, or mechanically enforceable. Place it where that trigger will cause the rule to be read at the right time.
+- If a task-specific rule needs agent behavior, create or update a project-local skill in `.agents/skills/` with a precise description. Do not rely on a long `AGENTS.md` section to carry the workflow.
+- If a rule belongs to an existing README, note, or lexicon page, update that file instead of duplicating it in `AGENTS.md`.
+- When moving rules out of `AGENTS.md`, keep a concise pointer to the owning skill or document if agents need to discover it by default.
 - When editing `AGENTS.md`, audit the touched section for task-specific procedures, command recipes, checklists, troubleshooting flows, or long rationale. Move those details into the relevant skill when practical, and replace the AGENTS entry with a short always-on rule or skill discovery link.
 - Before adding a guardrail to documentation, read that area's README or routing page and confirm the new rule belongs to its stated scope.
 - Do not duplicate the same long rule across multiple files. Put the principle in one place and enforcement in another when needed.

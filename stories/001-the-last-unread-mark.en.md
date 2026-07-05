@@ -2,23 +2,23 @@
 
 > The watchers spoke. They did not say they had conquered hidden things. They said their seeing had outrun their singing.
 
-I made the board for the watchers before any mouth called the work fearful.
+I made the quadrant for the watchers before any mouth called the work fearful.
 
 It was cedar from the north store, dry through three summers. I rubbed ash into the grain so the lamp cuts would hold. I laid seven crossmarks for the seven nights of checking, and I tied the cord with red thread at the length used for roof beams, field rows, and graves.
 
-The singers had asked for it. The old lamp song no longer kept the sowing days close enough. Children were planting by verses their grandmothers had trusted, and the beans came late. No elder accused the sky. No watcher accused the singers. A song may grow tired where many mouths have carried it. A board may rest the song's feet.
+The singers had asked for it. The old lamp song no longer kept the sowing days close enough. Children were planting by verses their grandmothers had trusted, and the beans came late. No elder accused the sky. No watcher accused the singers. A song may grow tired where many mouths have carried it. A quadrant may rest the song's feet.
 
 That was the purpose I wrote on the back: for the care of the song.
 
 On the first night we climbed the old rise. The watchers stood in their appointed places. I held the cord low so it would not drink wind. The red lamp came where the song said it would come. The pale lamp followed, but its shoulder leaned beyond the third cut.
 
-I blamed the board.
+I blamed the quadrant.
 
 At dawn I planed the edge again. I hung the cord by the hearth and found no wetness in it. I asked the watcher with the strongest sight whether sleep had weighed on his face. He answered by washing his eyes and not by taking offense.
 
 On the second night the pale lamp leaned beyond the third cut again.
 
-On the third night we changed the board. On the fourth we changed the rise. On the fifth we laid every tool on the ground and looked with naked mouths, saying nothing that might teach the lamps a new road.
+On the third night we changed the quadrant. On the fourth we changed the rise. On the fifth we laid every tool on the ground and looked with naked mouths, saying nothing that might teach the lamps a new road.
 
 The sky did not return.
 
@@ -30,13 +30,13 @@ On the sixth night one watcher wept. He did not weep loudly. He held his mouth s
 
 On the seventh night no one read aloud.
 
-We descended with dust on our knees. I carried the board wrapped in cloth. The watchers carried the cord, the wet record, and the broken place in the song. We washed before the common house. The water took the dust. It did not take the answer.
+We descended with dust on our knees. I carried the quadrant wrapped in cloth. The watchers carried the cord, the wet record, and the broken place in the song. We washed before the common house. The water took the dust. It did not take the answer.
 
 The elders set bread beside us first.
 
 Some said later this was pardon. Some said it was warning, because bread placed first may mark the one who must not be touched until judgment has cooled. I ate, because my mouth was dry and because the elder watched to see whether I would refuse the people's bread.
 
-The board lay in the center under cloth. No child had been called, but the doorways were full of children's breath. The singers stood behind them. The undertakers stood near the wall, hands gray with ash from names they had warmed before dawn.
+The quadrant lay in the center under cloth. No child had been called, but the doorways were full of children's breath. The singers stood behind them. The undertakers stood near the wall, hands gray with ash from names they had warmed before dawn.
 
 The oldest elder asked what we had done.
 
@@ -52,17 +52,17 @@ Then one watcher, whose tears had dried white on his cheek, said, "Our seeing ha
 
 No one struck him. That was worse than striking. If the word had been wicked, a rod could have found it. If the word had been foolish, laughter could have shut it. The word stood in the house and did not leave.
 
-The marks were covered. The watchers were wrapped in sleeping cloth. Their eyelids were washed with warm water and ash. Salt was placed on their tongues. I was not wrapped, because I had not been appointed to see. I sat awake with the board across my knees while the singers kept the old lamps in their low voices.
+The marks were covered. The watchers were wrapped in sleeping cloth. Their eyelids were washed with warm water and ash. Salt was placed on their tongues. I was not wrapped, because I had not been appointed to see. I sat awake with the quadrant across my knees while the singers kept the old lamps in their low voices.
 
-At evening the houses spoke warm names. I heard them through the walls: seed, hearth, salt, door, mother, blood, morning, soil. I knew then that a board could bruise more than wood.
+At evening the houses spoke warm names. I heard them through the walls: seed, hearth, salt, door, mother, blood, morning, soil. I knew then that a quadrant could bruise more than wood.
 
 When the watchers woke, they ate. They thanked those who had covered them. Their eyes were lowered.
 
 Then a child asked whether the lost lamp had found its house.
 
-Every watcher turned. I turned too. The board shifted on my knees and the last cut struck my thumb hard enough to raise blood.
+Every watcher turned. I turned too. The quadrant shifted on my knees and the last cut struck my thumb hard enough to raise blood.
 
-The council lasted seven nights, or else it lasted the length of time a people needs before fear learns to sit without a knife. The makers of measures sat apart by our own request. Our cords and boards were not broken, but no hand rested on them without flinching.
+The council lasted seven nights, or else it lasted the length of time a people needs before fear learns to sit without a knife. The makers of measures sat apart by our own request. Our cords and quadrants were not broken, but no hand rested on them without flinching.
 
 The singers spoke of a line that changed while they sang it. The undertakers spoke of graves whose names answered late. The children asked whether looking had harmed what was looked at. No answer came quickly enough to be a shield.
 
@@ -76,9 +76,9 @@ Soil without either would be loved and lost.
 
 After this, new rules were given. No watcher would stand alone. No mark would be kept in one house only. No report would be spoken without naming the hands and mouths that had stood beside it. Children would learn the lamp names, but only after warm names. Undertakers would warm the cooled names more often, because the dead must not be made to carry what the living feared to hold.
 
-I copied the board three times. One copy went to the singers. One went to the undertakers. One went to the house where the children learned seed counts.
+I copied the quadrant three times. One copy went to the singers. One went to the undertakers. One went to the house where the children learned seed counts.
 
-The first board I carried back to the rise.
+The first quadrant I carried back to the rise.
 
 I did not go alone. A singer came with a cracked voice. A child came because the elders said the wound hidden from children becomes their inheritance without a name. An undertaker came with ash under his nails and a bowl of old soil in his hand.
 
@@ -94,13 +94,13 @@ I left the last mark unread.
 
 Not because the lamp would move if named. Not because the number was forbidden. Not because I was merciful.
 
-I left it because the people had no house yet for that mark. A hand may lift more than it can carry. A mouth may open before there is bread enough for every listener. A board may hold a cut that a people has not yet learned to bear.
+I left it because the people had no house yet for that mark. A hand may lift more than it can carry. A mouth may open before there is bread enough for every listener. A quadrant may hold a cut that a people has not yet learned to bear.
 
-So I wrapped the board before dawn. The last mark remained under cloth, not hidden from truth, but waiting for the form that could carry it without breaking the song, the grave, the soil, and the child who would someday ask why I had stopped.
+So I wrapped the quadrant before dawn. The last mark remained under cloth, not hidden from truth, but waiting for the form that could carry it without breaking the song, the grave, the soil, and the child who would someday ask why I had stopped.
 
 ## Translator's Note
 
-This witness uses the word rendered as "measure" for the cord, the board, the act of reading, and the communal permission to let a reading count. I have kept the overlap. Separating tool from rite would make the passage cleaner and less accurate.
+This witness uses the word rendered as "measure" for the cord, the quadrant, the act of reading, and the communal permission to let a reading count. I have kept the overlap. Separating tool from rite would make the passage cleaner and less accurate.
 
 The last mark is not necessarily suppressed data. It may be an unread value, an unperformed declaration, or a withheld state change. The manuscript lets the maker appear cautious, but I cannot exclude the possibility that the maker's refusal produced the very communal form it claims to await.
 
