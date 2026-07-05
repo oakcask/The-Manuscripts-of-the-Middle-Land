@@ -38,7 +38,7 @@ Then the voice loosened. A sleeper's last breath rose without sound, and the nam
 
 Then the name loosened from the single place where the body had lain. It went toward the chamber. It went toward the singers. It went toward the grave from which soil had been brought. It went toward those who owed forgiveness and those from whom forgiveness had been withheld. The elders stretched their hands over these crossings and asked that no relation be torn because it had to be lengthened.
 
-Not all loosening was gentle. Some names pulled back. Some clung to the tongue of a living child and would not enter the light until the child was allowed to speak. Some cooled too quickly and had to be wrapped in song. Some brightened so fiercely that the namekeepers covered their eyes. The singers say that no name was left outside the rite. They do not say that all went willingly.
+Not all loosening was gentle. Some names pulled back. Some reached toward the hands that had washed them. Some clung to the tongue of a living child and would not enter the light until the child was allowed to speak. Some cooled too quickly and had to be wrapped in song. Some brightened so fiercely that the namekeepers covered their eyes. The undertakers drew the bowls nearer. The singers did not sing a hastening song. The elders stretched their hands over the threshold and kept the calling low until the light received them.
 
 When the chamber had taken them, the light did not depart like flame blown out. It folded inward. The bodies that remained were light to lift, or too still to lift, or no longer counted among things that could be lifted. The undertakers bowed. The singers closed the song. The elders said, "They are loosened into light. Call them carefully."
 

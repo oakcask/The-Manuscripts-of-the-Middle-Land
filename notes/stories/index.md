@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- |
 | 001 | 第一の知 | `001-first-knowledge.md` | `myths/002-first-knowledge.en.md` / `myths/002-first-knowledge.ja.md` | 三視点英語ドラフト作成済み |
 | 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/001-middle-land-became-ship.en.md` / `myths/001-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
+| 003 | Do Not Call Them Twice / 二度と呼ぶなかれ | `003-light-burial.md` | `myths/003-light-burial.en.md` / `myths/003-light-burial.ja.md` | 四視点英日本文作成済み |
 
 ## 本文ドラフト
 
@@ -20,6 +21,10 @@
 | 005 | The Loved Resistance / 愛された抵抗 | `stories/005-the-loved-resistance.en.md` / `stories/005-the-loved-resistance.ja.md` | 異端写本 |
 | 006 | After the Measuring Rods Were Broken / 測り棒が折られた後で | `stories/006-after-the-measuring-rods-were-broken.en.md` / `stories/006-after-the-measuring-rods-were-broken.ja.md` | 技術者・航海者写本 |
 | 007 | Until the Next Calling / 次の呼びかけまで | `stories/007-until-the-next-calling.en.md` / `stories/007-until-the-next-calling.ja.md` | 葬送写本 |
+| 008 | Do Not Call Them Twice / 二度と呼ぶなかれ | `stories/008-do-not-call-them-twice.en.md` / `stories/008-do-not-call-them-twice.ja.md` | 葬送・正統写本 |
+| 009 | Before Grief Learned to Ask / 悲しみが問い方を覚える前に | `stories/009-before-grief-learned-to-ask.en.md` / `stories/009-before-grief-learned-to-ask.ja.md` | 正統・子供向け写本 |
+| 010 | The Name Answered by Difference / その名は区別によって答えた | `stories/010-the-name-answered-by-difference.en.md` / `stories/010-the-name-answered-by-difference.ja.md` | 技術者・葬送写本 |
+| 011 | The Word Beside the Name / 名のそばの一語 | `stories/011-the-word-beside-the-name.en.md` / `stories/011-the-word-beside-the-name.ja.md` | 異端写本 |
 
 ## 配置メモ
 
