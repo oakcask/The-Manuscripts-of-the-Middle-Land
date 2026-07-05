@@ -14,19 +14,19 @@ The singers rehearsed no song of victory. The undertakers permitted no hurried p
 
 At the end of preparation, each name lay beside ash, water, soil, and grain. Each name had been spoken toward the ship's inward chambers and toward the far dark beyond the hull. The elders then covered the bowls and said, "Let no name go unaccompanied. Let no warmth be demanded after warmth has been taken. Let no cooling be called abandonment."
 
-## II. The Washing Before Light
+## II. The Purification Before Light
 
-Before the light was opened, the washing began. The undertakers washed the foreheads of the dead in the old way: with water, ash, and the sign of the soil from which they had once risen. Then they washed the foreheads of those in preserving sleep by the same order. No one was permitted to say that the hand had changed its office. The hand knew what it was doing, and the hand trembled.
+Before the light was opened, the purification began. The undertakers purified the foreheads of the dead in the old way: with water, ash, and the sign of the soil from which they had once risen. Then they purified the foreheads of those in preserving sleep by the same order. No one was permitted to say that the hand had changed its office. The hand knew what it was doing, and the hand trembled.
 
 The sleepers were not called dead. This was the rule of the elders, and the singers kept it. Yet the cloths were folded as burial cloths had been folded. The lamps were lowered as they had been lowered beside graves. The mouths were touched with grain, and the ears were touched with water, so that the last taste and the last hearing would not be empty if the rite became a last thing.
 
-Those still awake watched in silence. Some saw their mothers washed. Some saw children who had never learned the long names washed. Some saw those who had argued against ship-making washed with the same care as those who had obeyed it. The undertakers did not divide the beloved by agreement. They washed the forehead and said, "Be held without shame."
+Those still awake watched in silence. Some saw their mothers purified. Some saw children who had never learned the long names purified. Some saw those who had argued against ship-making purified with the same care as those who had obeyed it. The undertakers did not divide the beloved by agreement. They purified the forehead and said, "Be held without shame."
 
 When a sleeper stirred, the singers lowered their voices. When a dead face seemed to answer, the namekeepers did not lean too near. When a living mouth tried to speak, the grain was not forced past the teeth. The rite allowed the body its last refusals, or its last remembrances, or the small motions that come when the body is already walking away from command.
 
 The children asked why the same water touched the living and the dead. The elders answered, "Because the ship must not learn contempt from us. What is sent in sleep and what is sent after breath are both sent from our hands. Therefore our hands must be faithful."
 
-Then the washing ended, and the cloths were drawn over feet, knees, hands, and breast. The faces remained uncovered until each name had been called once more. The light had not yet received them, but the old nearness had already begun to loosen.
+Then the purification ended, and the cloths were drawn over feet, knees, hands, and breast. The faces remained uncovered until each name had been called once more. The light had not yet received them, but the old nearness had already begun to loosen.
 
 ## III. The Loosening Into Light
 
@@ -38,7 +38,7 @@ Then the voice loosened. A sleeper's last breath rose without sound, and the nam
 
 Then the name loosened from the single place where the body had lain. It went toward the chamber. It went toward the singers. It went toward the grave from which soil had been brought. It went toward those who owed forgiveness and those from whom forgiveness had been withheld. The elders stretched their hands over these crossings and asked that no relation be torn because it had to be lengthened.
 
-Not all loosening was gentle. Some names pulled back. Some reached toward the hands that had washed them. Some clung to the tongue of a living child and would not enter the light until the child was allowed to speak. Some cooled too quickly and had to be wrapped in song. Some brightened so fiercely that the namekeepers covered their eyes. The undertakers drew the bowls nearer. The singers did not sing a hastening song. The elders stretched their hands over the threshold and kept the calling low until the light received them.
+Not all loosening was gentle. Some names pulled back. Some reached toward the hands that had purified them. Some clung to the tongue of a living child and would not enter the light until the child was allowed to speak. Some cooled too quickly and had to be wrapped in song. Some brightened so fiercely that the namekeepers covered their eyes. The undertakers drew the bowls nearer. The singers did not sing a hastening song. The elders stretched their hands over the threshold and kept the calling low until the light received them.
 
 When the chamber had taken them, the light did not depart like flame blown out. It folded inward. The bodies that remained were light to lift, or too still to lift, or no longer counted among things that could be lifted. The undertakers bowed. The singers closed the song. The elders said, "They are loosened into light. Call them carefully."
 
@@ -60,7 +60,7 @@ At evening the singers made a short formula: "The called answered. The answered 
 
 After the first calling, the rule for later burials was given. No one was to be sent into light without name, ash, water, soil, and grain, unless the hour came with such force that the hands could save only the name. No one was to be called back for comfort alone. No one was to ask the light to settle a quarrel that the living had refused to settle while breath remained.
 
-The dead and the travelers were thereafter prepared in one house, though not in one heap. The dead were washed as those who had gone before. The sleepers were washed as those who might yet answer with warmth. The singers used one road of song for both, but they placed a pause where the old burial words met the new words of sending.
+The dead and the travelers were thereafter prepared in one house, though not in one heap. The dead were purified as those who had gone before. The sleepers were purified as those who might yet answer with warmth. The singers used one road of song for both, but they placed a pause where the old burial words met the new words of sending.
 
 The elders declared that light-burial was departure and burial together. Those who loved departure were warned not to forget the grave. Those who loved the grave were warned not to forbid the voyage. The ship had become the second shelter, and the second shelter held cradle, chamber, field, and tomb without allowing any one of them to swallow the others.
 
@@ -76,7 +76,7 @@ Therefore the singers close the rite with the words still spoken before a chambe
 
 Light-burial is retained as a provisional rendering. In this chapter it functions as funeral, departure, preservation, and transfer into light without allowing any one sense to rule the others.
 
-Preserving sleep likewise remains unstable. The myth body refuses to call the sleepers dead, but the washing, cloths, grain, and lowered lamps are explicitly funerary. The distinction may be theological, procedural, compassionate, or defensive.
+Preserving sleep likewise remains unstable. The myth body refuses to call the sleepers dead, but the purification, cloths, grain, and lowered lamps are explicitly funerary. The distinction may be theological, procedural, compassionate, or defensive.
 
 Cooled name and loosened into light are not equivalent. A cooled name may still be held without warmth; a name loosened into light has entered a chamber from which it may answer. The chapter withholds judgment on whether the answer is the same person, a preserved relation, a faithful echo, or something the received language cannot separate.
 
