@@ -19,6 +19,7 @@
 | 船 | 船と容器 | `terms/vessels.md` |
 | 第二の避け所 | 船と容器 | `terms/vessels.md` |
 | 第一の知 | 知識と観測 | `terms/knowledge.md` |
+| 禁じられた距離 | 光と時制 | `terms/light-time.md` |
 | 創造主 | 知識と観測 | `terms/knowledge.md` |
 | 光葬 | 身体と人格 | `terms/bodies.md` |
 | 保存の眠り | 身体と人格 | `terms/bodies.md` |
