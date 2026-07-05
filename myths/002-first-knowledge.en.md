@@ -28,7 +28,7 @@ On the second night the lamps were many. On the third night they were too many. 
 
 They came down from the rises with dust on their knees. They washed before entering the common house, but the washing did not remove what they had seen. They set no accusation before the elders. They placed only the marks, the cords, the broken song, and their own troubled mouths upon the floor.
 
-The elders listened. The keepers of names listened. The undertakers listened, for they had already noticed that some graves answered less warmly when called at night. The seed stewards listened, for seed had begun to stir before the proper blessing. The children listened from the doorways, though no one had called them.
+The elders listened. The namekeepers listened. The undertakers listened, for they had already noticed that some graves answered less warmly when called at night. The seed stewards listened, for seed had begun to stir before the proper blessing. The children listened from the doorways, though no one had called them.
 
 No judgment was given that day. The elders covered the marks with cloth and ordered food to be shared. The watchers were not struck. Their rods were not broken. Their eyes were not cursed. The elders said, "Let sight rest." They said, "Let the lamps be praised as before." They said, "Let no one carry a lonely seeing into the night."
 
@@ -52,13 +52,13 @@ Others wished to unveil everything at once. They said every person should climb 
 
 The elders refused both haste and denial. They said, "A door may be closed against storm, but not against morning." They said, "A cup that has cracked must not be used for a child until the crack is known." They said, "What has entered the people must be carried by the people, or it will choose its own bearer."
 
-For this reason the knowledge was brought into the center of the common house. It was not brought as a lamp, nor as a stone, nor as a written mark. It was brought by silence. Each watcher placed one hand on bread and one hand on ash. Each elder placed one hand on water and one hand on a sleeping cloth. The children were permitted to place their hands on the floor. Then the oldest keeper of names asked whether the people could return to the closed sky by refusing to look.
+For this reason the knowledge was brought into the center of the common house. It was not brought as a lamp, nor as a stone, nor as a written mark. It was brought by silence. Each watcher placed one hand on bread and one hand on ash. Each elder placed one hand on water and one hand on a sleeping cloth. The children were permitted to place their hands on the floor. Then the oldest namekeeper asked whether the people could return to the closed sky by refusing to look.
 
 No answer came. Or the answer came as fear in every throat.
 
 ## IV. The Council of Names
 
-The council lasted for seven nights, or for seven turnings, or until the count itself cooled in the hand of memory. The people sat by callings: watchers of the rim, keepers of names, undertakers, seed stewards, makers of measures, singers, builders, healers, children old enough to remember, and elders old enough to forget without shame.
+The council lasted for seven nights, or for seven turnings, or until the count itself cooled in the hand of memory. The people sat by callings: watchers of the rim, namekeepers, undertakers, seed stewards, makers of measures, singers, builders, healers, children old enough to remember, and elders old enough to forget without shame.
 
 The makers of measures sat apart by their own request. They had not made the dark. They had not pushed the lamps from their houses. Yet their cords and boards had become bright with blame. The elders placed bread beside them first, so the people would see that blame was not the first food of the council.
 

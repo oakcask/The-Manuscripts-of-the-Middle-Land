@@ -130,7 +130,7 @@ For `keep`, `keeper`, `kept`, and `keeping`, choose by local function:
 | English function | Prefer in Japanese | Avoid by default |
 |---|---|---|
 | preserved tradition or transmitted telling | `伝承`, `伝わる語り`, `保ち伝えた語り` | `保持` |
-| ritual role or office | `名を保つ者`, `種を預かる者`, established role name | unnecessary `保持者` |
+| ritual role or office | `よびな守` for `namekeeper(s)`, `種を預かる者`, established role name | unnecessary `保持者` |
 | physical or relational holding | `保つ`, `留める`, `抱く`, `近くに置く` | abstract `保持する` |
 | preservation as technical/funerary procedure | `保存`, `保つこと`, `保管` if storage is literal | opaque `保持` |
 
@@ -144,12 +144,13 @@ For Japanese institutional offices, prefer a role name that a Japanese reader ca
 |---|---|---|
 | practical ability or local knowledge | `...を知っていれば`, `...を知る者なら`, `...できる者` only when personhood matters | stiff calque like `...を保持する者` |
 | non-office action in a sentence | recast with the verb: `泣いた者たちは...` may become `泣く者は...` only if formulaic; otherwise `泣いた人々は...` or `彼らは泣き...` | repeated `...した者たちは` |
-| established office or ritual role | established role names such as `墓守`, `監視官`, `詠者`, `保名官`, `種子保管官`, or another lexicon role name | casual paraphrase; literal `...する者` unless the texture is intentional |
+| established office or ritual role | established role names such as `墓守`, `監視官`, `詠者`, `よびな守`, `種子保管官`, or another lexicon role name | casual paraphrase; literal `...する者` unless the texture is intentional |
 | transformed or theological state | `眠る者`, `生きる者`, `死者`, `光にほどけた者` when lexicon pressure is intended | casual paraphrase that removes the ritual category |
 
 Examples from the current draft:
 
 - `those who kept the songs of ascent` should be `登りの歌を知る者`, not `登りの歌を保つ者` or `保持する者`. The line is about remembered wayfinding, not an office of preservation.
+- `namekeeper` / `namekeepers` should be `よびな守`, not `号守`, `保持者`, or routine `名を保つ者`. Use `名を保つ者` only when preserving an older explanatory texture is intentional.
 - `Those who could speak gave their names` can remain `話すことのできる者は自分の名を与えた`, because personhood and consent are being sorted ritually.
 - `Those who slept were not abandoned...` can remain `眠る者たちは...`, because `眠る者` is a recurring transformed state.
 - `the dead are addressed as kept` should stay near `保たれた者`, because this is a ritual category, not ordinary possession.

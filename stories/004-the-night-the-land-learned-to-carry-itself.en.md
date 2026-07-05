@@ -106,7 +106,7 @@ It was Yaret, son of Hal, who had also been Yaret of the eastern well after he m
 
 The sound was not loud. That made it worse. A loud break can be mourned. This was thin and clean, like a hair pulled from wet clay.
 
-The name-keepers looked at me.
+The namekeepers looked at me.
 
 I knew the rule. A split name must not be warmed quickly. It must be cooled entire, before eager mouths choose one piece and lose the rest.
 

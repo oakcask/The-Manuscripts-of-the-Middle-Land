@@ -29,6 +29,7 @@
 | 歌い手 | 実践と制度 | `terms/practices.md` |
 | 朗誦 | 実践と制度 | `terms/practices.md` |
 | 墓守 | 実践と制度 | `terms/practices.md` |
+| よびな守 | 実践と制度 | `terms/practices.md` |
 | 測り棒 | 実践と制度 | `terms/practices.md` |
 | 畳まれる | 船と容器 | `terms/vessels.md` |
 
