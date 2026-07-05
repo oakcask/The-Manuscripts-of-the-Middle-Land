@@ -2,6 +2,7 @@
 set -euo pipefail
 
 BOOK_SRC="book-src"
+BOOK_PREFACE="book-preface.md"
 
 rm -rf "$BOOK_SRC"
 mkdir -p "$BOOK_SRC"
@@ -15,10 +16,6 @@ copy_markdown_tree() {
 
   find "$dir" -type f -name '*.md' -print0 | while IFS= read -r -d '' file; do
     local dest="$file"
-
-    if [ "$file" = "lexicon/README.md" ]; then
-      dest="lexicon/lexicon-readme.md"
-    fi
 
     mkdir -p "$BOOK_SRC/$(dirname "$dest")"
     cp "$file" "$BOOK_SRC/$dest"
@@ -67,33 +64,11 @@ append_lang_section() {
   done
 }
 
-append_lexicon_section() {
-  append_entry "lexicon/index.md"
-
-  find lexicon -maxdepth 1 -type f -name '*.md' ! -name 'index.md' | sort | while IFS= read -r file; do
-    if [ "$file" = "lexicon/README.md" ]; then
-      append_entry_from "$file" "lexicon/lexicon-readme.md"
-    else
-      append_entry "$file"
-    fi
-  done
-
-  find lexicon/terms -maxdepth 1 -type f -name '*.md' | sort | while IFS= read -r file; do
-    append_entry "$file"
-  done
-}
-
-for dir in myths stories translations lexicon; do
+for dir in myths stories translations; do
   copy_markdown_tree "$dir"
 done
 
-cat > "$BOOK_SRC/README.md" <<'EOF'
-# はじめに
-
-この読書ビューは、原稿ディレクトリを移動せずに生成した mdBook 用の閲覧ソースです。
-
-本文は日本語版と English Edition に分け、語彙集は独立した参照セクションとして並べています。
-EOF
+cp "$BOOK_PREFACE" "$BOOK_SRC/README.md"
 
 cat > "$BOOK_SRC/SUMMARY.md" <<'EOF'
 # Summary
@@ -111,12 +86,5 @@ cat >> "$BOOK_SRC/SUMMARY.md" <<'EOF'
 EOF
 
 append_lang_section "en"
-
-cat >> "$BOOK_SRC/SUMMARY.md" <<'EOF'
-
-# 語彙集
-EOF
-
-append_lexicon_section
 
 printf 'Generated %s\n' "$BOOK_SRC"
