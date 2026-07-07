@@ -9,7 +9,7 @@
 | 001 | 第一の知 | `001-first-knowledge.md` | `myths/003-first-knowledge.en.md` / `myths/003-first-knowledge.ja.md` | 三視点英語ドラフト作成済み |
 | 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/004-middle-land-became-ship.en.md` / `myths/004-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
 | 003 | Do Not Call Them Twice / 二度と呼ぶなかれ | `003-light-burial.md` | `myths/005-light-burial.en.md` / `myths/005-light-burial.ja.md` | 四視点英日本文作成済み |
-| 004 | The Saint Who Prayed to the Well / 井戸へ祈った聖者 | `004-black-well-saint.md` | `myths/006-saint-of-the-black-well.en.md` / `myths/006-saint-of-the-black-well.ja.md` | 四視点プロット作成済み・神話本文未作成 |
+| 004 | The Saint Who Prayed to the Well / 井戸へ祈った聖者 | `004-black-well-saint.md` | `myths/006-saint-of-the-black-well.en.md` / `myths/006-saint-of-the-black-well.ja.md` | 四視点英日本文作成済み |
 
 ## 本文ドラフト
 
@@ -26,6 +26,10 @@
 | 009 | Before Grief Learned to Ask / 悲しみが問い方を覚える前に | `stories/009-before-grief-learned-to-ask.en.md` / `stories/009-before-grief-learned-to-ask.ja.md` | 正統・子供向け写本 |
 | 010 | The Name Answered by Difference / その名は区別によって答えた | `stories/010-the-name-answered-by-difference.en.md` / `stories/010-the-name-answered-by-difference.ja.md` | 技術者・葬送写本 |
 | 011 | The Word Beside the Name / 名のそばの一語 | `stories/011-the-word-beside-the-name.en.md` / `stories/011-the-word-beside-the-name.ja.md` | 異端写本 |
+| 012 | The Question Laid Down / 置かれた問い | `stories/012-the-question-laid-down.en.md` / `stories/012-the-question-laid-down.ja.md` | 異端・第六写本 |
+| 013 | Before the Window / 窓の前に | `stories/013-before-the-window.en.md` / `stories/013-before-the-window.ja.md` | 航海者写本 |
+| 014 | The Shelf Between / あいだの棚 | `stories/014-the-shelf-between.en.md` / `stories/014-the-shelf-between.ja.md` | 葬送写本 |
+| 015 | Reproduction Not Permitted / 再現は許されない | `stories/015-reproduction-not-permitted.en.md` / `stories/015-reproduction-not-permitted.ja.md` | 技術者写本 |
 
 ## 配置メモ
 

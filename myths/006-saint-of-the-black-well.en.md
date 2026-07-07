@@ -88,7 +88,7 @@ Nothing returned from the well.
 
 ## V. After Nothing Returned
 
-After nothing returned, the people did not know how to grieve. If the saint had died, they could have washed him. If he had departed, they could have blessed the road. If he had sinned, they could have named the wound and bound it. If he had been proved right, they could have made a feast and endangered every silence thereafter.
+After nothing returned, the people did not know how to grieve. If the saint had died, they could have purified him. If he had departed, they could have blessed the road. If he had sinned, they could have named the wound and bound it. If he had been proved right, they could have made a feast and endangered every silence thereafter.
 
 The elders forbade both accusation and triumph for one full turning. Bread was shared without speeches. The covered windows remained covered until the danger of the well had passed. Children were told that some silences must not be shaken to see whether a seed lies inside.
 
