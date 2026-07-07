@@ -9,6 +9,7 @@
 | 001 | 第一の知 | `001-first-knowledge.md` | `myths/003-first-knowledge.en.md` / `myths/003-first-knowledge.ja.md` | 三視点英語ドラフト作成済み |
 | 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/004-middle-land-became-ship.en.md` / `myths/004-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
 | 003 | Do Not Call Them Twice / 二度と呼ぶなかれ | `003-light-burial.md` | `myths/005-light-burial.en.md` / `myths/005-light-burial.ja.md` | 四視点英日本文作成済み |
+| 004 | The Saint Who Prayed to the Well / 井戸へ祈った聖者 | `004-black-well-saint.md` | `myths/006-saint-of-the-black-well.en.md` / `myths/006-saint-of-the-black-well.ja.md` | 四視点プロット作成済み・神話本文未作成 |
 
 ## 本文ドラフト
 
