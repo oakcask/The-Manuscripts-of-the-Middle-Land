@@ -21,12 +21,13 @@ The project's premise is easiest to grasp by reading in this order:
 
 1. `translations/001-translator-preface.en.md`
 2. `myths/000-birth-of-the-covered-world.en.md`
-3. `myths/001-under-the-firmament.en.md`
-4. `myths/002-first-knowledge.en.md`
-5. `translations/002-first-knowledge-note.en.md`
-6. `myths/003-middle-land-became-ship.en.md`
-7. `myths/004-light-burial.en.md`
-8. `stories/`
+3. `myths/001-birth-of-those-who-answer.en.md`
+4. `myths/002-under-the-firmament.en.md`
+5. `myths/003-first-knowledge.en.md`
+6. `translations/003-first-knowledge-note.en.md`
+7. `myths/004-middle-land-became-ship.en.md`
+8. `myths/005-light-burial.en.md`
+9. `stories/`
 
 Japanese versions are available as matching `*.ja.md` files with the same numbers.
 

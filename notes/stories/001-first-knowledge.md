@@ -6,8 +6,8 @@
 
 ### 元になる神話本文
 
-- `myths/002-first-knowledge.en.md`
-- `myths/002-first-knowledge.ja.md`
+- `myths/003-first-knowledge.en.md`
+- `myths/003-first-knowledge.ja.md`
 
 神話本文では、第一の知は「空の縁を見張る者たち」が灯の異常を測り、共同体がその知を個人の罪でも単純な贈り物でもなく、民全体の重荷として受け入れる出来事として語られる。
 

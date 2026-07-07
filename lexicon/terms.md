@@ -23,6 +23,7 @@
 | 創造主 | 知識と観測 | `terms/knowledge.md` |
 | 光葬 | 身体と人格 | `terms/bodies.md` |
 | 保存の眠り | 身体と人格 | `terms/bodies.md` |
+| 答えるもの | 身体と人格 | `terms/bodies.md` |
 | 割れた名 | 身体と人格 | `terms/bodies.md` |
 | 黒い井戸 | 場所と故郷 | `terms/places.md` |
 | 観る罪 | 知識と観測 | `terms/knowledge.md` |
