@@ -15,8 +15,8 @@
 
 ### 元になる神話本文
 
-- `myths/001-middle-land-became-ship.en.md`
-- `myths/001-middle-land-became-ship.ja.md`
+- `myths/003-middle-land-became-ship.en.md`
+- `myths/003-middle-land-became-ship.ja.md`
 
 神話本文では、第一の知の後、中つ国そのものが保存可能な形へ変換される。船は大地のそばに建てられるのではなく、自らを運ぶことを教えられた大地として語られる。
 

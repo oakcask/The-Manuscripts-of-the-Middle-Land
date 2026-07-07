@@ -26,6 +26,8 @@
 | 割れた名 | 身体と人格 | `terms/bodies.md` |
 | 黒い井戸 | 場所と故郷 | `terms/places.md` |
 | 観る罪 | 知識と観測 | `terms/knowledge.md` |
+| 見張る者 / 観る者 | 知識と観測 | `terms/knowledge.md` |
+| 遠い灯 / 遠灯 | 光と時制 | `terms/light-time.md` |
 | 歌い手 | 実践と制度 | `terms/practices.md` |
 | 朗誦 | 実践と制度 | `terms/practices.md` |
 | 墓守 | 実践と制度 | `terms/practices.md` |

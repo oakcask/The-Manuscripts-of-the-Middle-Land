@@ -8,7 +8,7 @@ The watchers of the rim are therefore difficult to translate. If they merely obs
 
 The later term watching sin is not used in the approved surface of this chapter. Its absence should not be read as innocence. The First Manuscript often avoids a dangerous term by surrounding the place where it would have appeared with bread, water, ash, song, and counsel. I have preserved that avoidance. I cannot prove that I have not repeated it.
 
-The Creator is more troubling here than in the ship-making chapter. The people ask whether the Creator moved the lamps, but the chapter does not let the question mature into doctrine. The omission may be pious restraint. It may be censorship. It may also mean that no agent stood behind the event, and that later readers supplied one because an irreversible change without intention is harder to mourn.
+The Creator is more troubling here than in the ship-making chapter. The people ask whether the Creator moved the far lamps, but the chapter does not let the question mature into doctrine. The omission may be pious restraint. It may be censorship. It may also mean that no agent stood behind the event, and that later readers supplied one because an irreversible change without intention is harder to mourn.
 
 I should add that a phrase such as act of attention is already too clean. Attention may imply a mind. The source may indicate an operation with no inwardness, or with inwardness distributed beyond recognition. I retain knowledge because the receiving tradition has already stabilized around it. Stabilization is not the same as truth.
 

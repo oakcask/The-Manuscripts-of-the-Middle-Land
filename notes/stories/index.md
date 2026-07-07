@@ -7,8 +7,8 @@
 | 番号 | 仮題 | 計画ノート | 元になる神話 | 状態 |
 | --- | --- | --- | --- | --- |
 | 001 | 第一の知 | `001-first-knowledge.md` | `myths/002-first-knowledge.en.md` / `myths/002-first-knowledge.ja.md` | 三視点英語ドラフト作成済み |
-| 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/001-middle-land-became-ship.en.md` / `myths/001-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
-| 003 | Do Not Call Them Twice / 二度と呼ぶなかれ | `003-light-burial.md` | `myths/003-light-burial.en.md` / `myths/003-light-burial.ja.md` | 四視点英日本文作成済み |
+| 002 | The Night the Land Learned to Carry Itself / 大地が自らを運ぶことを覚えた夜 | `002-shipmaking-night.md` | `myths/003-middle-land-became-ship.en.md` / `myths/003-middle-land-became-ship.ja.md` | 四視点英日本文作成済み |
+| 003 | Do Not Call Them Twice / 二度と呼ぶなかれ | `003-light-burial.md` | `myths/004-light-burial.en.md` / `myths/004-light-burial.ja.md` | 四視点英日本文作成済み |
 
 ## 本文ドラフト
 
