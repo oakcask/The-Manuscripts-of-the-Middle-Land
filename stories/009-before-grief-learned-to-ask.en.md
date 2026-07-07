@@ -10,19 +10,19 @@ His name was not in the bowl.
 
 The namekeeper had taken it at dawn and tied it with the others on a cord of pale fiber. Birth names first, then the names used by mothers when no one else was near, then field names, quarrel names, debt names, forgiven names, doorway names, and last the little names left by kindness. I had given all the names I knew. Afterward I remembered three more and hated myself for not remembering them in time.
 
-My mother walked beside me without a bowl. She carried the old shirt my brother had worn when he climbed the lower roof to mend the smoke vent and came down laughing with soot on his teeth. The undertaker had said cloth could not be placed among the first offerings because cloth held too much of the body's wanting. My mother folded it anyway. No one asked her to put it down.
+My mother walked beside me without a bowl. She carried the old shirt my brother had worn when he climbed the lower roof to mend the smoke vent and came down laughing with soot on his teeth. The burial attendant had said cloth could not be placed among the first offerings because cloth held too much of the body's wanting. My mother folded it anyway. No one asked her to put it down.
 
-We passed the sleeping house before we reached the chamber.
+We passed the sleep ward before we reached the chamber.
 
-The sleepers lay in rows with their brows uncovered. Some had been asleep since the first narrowing of the fields. Some had entered the preserving sleep that morning and still had the flushed look of people who might wake angry if a child shouted near them. Their families stood beside them with bowls like mine.
+The sleepers lay in rows with their brows uncovered. Some had been asleep since the first narrowing of the fields. Some had entered preservation sleep that morning and still had the flushed look of people who might wake angry if a child shouted near them. Their families stood beside them with bowls like mine.
 
 I had been told my brother was dead.
 
-I had touched the place under his jaw where no pulse answered. I had watched the grave keeper close his eyes. I had helped lift him onto the carrying board.
+I had touched the place under his jaw where no pulse answered. I had watched the burial attendant close his eyes. I had helped lift him onto the carrying board.
 
 Still, when I saw the sleepers, I looked back at my brother's covered face and could not keep the question from entering me. If the same chamber received them, if the same light held them, if the same namekeeper called them, what had death done that sleep had not yet done?
 
-At the washing, the grave keeper did not change the water.
+At the washing, the burial attendant did not change the water.
 
 He dipped the cloth, wrung it once, and passed it over the brow of a dead woman from the north ovens. He dipped it again and washed the brow of a sleeping boy whose fingers twitched whenever his sister spoke. The water ran down both faces in the same thin path and gathered beneath both ears.
 
@@ -34,11 +34,11 @@ She did not mean the woman or the boy. She meant my brother. She meant whether t
 
 The elder nearest us heard and turned his face away, which was the only honest answer I received that day.
 
-When the keeper came to my brother, I almost stopped him. The cloth was the same cloth. The water was the same water. It had touched death and sleep and would now touch the forehead I had kissed when I thought no one was watching.
+When the attendant came to my brother, I almost stopped him. The cloth was the same cloth. The water was the same water. It had touched death and sleep and would now touch the forehead I had kissed when I thought no one was watching.
 
 I held the bowl harder. Grain pressed against the clay. My thumb slipped into the water, and ash rose in a gray thread.
 
-The keeper washed him from temple to temple.
+The attendant washed him from temple to temple.
 
 My brother did not stir.
 
@@ -59,6 +59,8 @@ We were called by households.
 My mother and I carried my brother's bowl to the chamber threshold. The room beyond had been made inside the ship before any of us knew how a ship could contain a room where our granary had been. Its walls were dark, but not with earth. Lamps had been set along the floor, and each flame leaned inward as if listening to a voice too far away for us.
 
 The namekeeper took the bowl from my hands.
+
+She held it level, as if a tilted bowl could tilt the road his name would take.
 
 "Ash," she said.
 
@@ -100,7 +102,7 @@ I had expected brightness. Everyone had told us light would take them. I had not
 
 My brother's hands had been heavy all morning.
 
-When we carried him, his fingers pulled against the linen. When the keeper placed him beside the bowl, one hand dropped from the board and had to be lifted back. I had been angry at that hand because it made everyone see the weight. It made my mother bend as if to help him stand.
+When we carried him, his fingers pulled against the linen. When the attendant placed him beside the bowl, one hand dropped from the board and had to be lifted back. I had been angry at that hand because it made everyone see the weight. It made my mother bend as if to help him stand.
 
 In the chamber, the hand lightened before the rest of him.
 
@@ -138,7 +140,7 @@ The bowl remained. The shirt remained. My mother's hands remained lifted after t
 
 After the sending, no one was allowed to go home.
 
-We sat in the gathering hall while the namekeepers made the first recall. The elders had chosen three names: one that had gone warm, one that had gone cold, and one child-name that had clung too strongly to living mouths. They said this was not for comfort. They said the rite must know how to keep what had been sent.
+We sat in the gathering hall while the namekeepers made the first recall. The elders had chosen three names: one that had gone warm, one that had gone cold, and one child-name that had clung too strongly to living mouths. They said this was not for comfort. They said the rite must know whether what had been sent could answer without being spent.
 
 But every family leaned forward like a hungry body.
 
@@ -176,7 +178,7 @@ If I asked, he would answer.
 
 If he answered, I would have him.
 
-The second recall was the cold name. It answered late, and with no warmth anyone could hold. Yet when the namekeeper asked for the measure placed beside it, the answer differed from every other name. It was itself. It was not a neighbor. It was not an echo caught in the wrong chamber.
+The second recall was the cold name. It answered late, and with no warmth anyone could hold. Yet when the namekeeper asked for the measure placed beside its bowl, the answer differed from every other name. It was itself. It was not a neighbor. It was not an echo caught in the wrong chamber.
 
 People shifted uneasily. They wanted less truth and more belovedness.
 
@@ -210,9 +212,9 @@ The namekeeper closed her hand. The chamber dimmed. The mother made a sound that
 
 The elders conferred until the lamps had burned low.
 
-At last the eldest stood and gave the rule that would be repeated in houses, gardens, sleeping rooms, and later in lessons for children whose first memory was the ship.
+At last the eldest stood and gave the rule that would be repeated in houses, gardens, sleep wards, and later in lessons for children whose first memory was the ship.
 
-"A name may be recalled for keeping, for danger, for dispute, for a charge laid upon the living. It may not be recalled because grief has learned the shape of a question."
+"A name may be recalled for preservation, for danger, for dispute, for a charge laid upon the living. It may not be recalled because grief has learned the shape of a question."
 
 The words entered the hall like a door closing.
 
@@ -230,11 +232,11 @@ That should have comforted me. It should have made the question useless. Instead
 
 Night came without sending us away.
 
-Some slept on the floor. Some sat with their bowls under their coats. Some went to the doors of the recall chamber and were turned back gently by watchers who had been chosen because no one they loved had been sent that day. I did not sleep. My mother did, or pretended to. Her hand stayed on the folded shirt, which had been returned to her after the sending because the elders could not decide what had happened to it.
+Some slept on the floor. Some sat with their bowls under their coats. Some went to the doors of the recall chamber and were turned back gently by guards who had been chosen because no one they loved had been sent that day. I did not sleep. My mother did, or pretended to. Her hand stayed on the folded shirt, which had been returned to her after the sending because the elders could not decide what had happened to it.
 
 Near the hour when lamps gutter before dawn, I rose.
 
-No one stopped me in the first passage. No one stopped me in the second. At the third, a watcher opened her eyes and saw the bowl in my hands.
+No one stopped me in the first passage. No one stopped me in the second. At the third, a guard opened her eyes and saw the bowl in my hands.
 
 "The chamber is closed," she said.
 
@@ -248,11 +250,11 @@ Because another woman's cup was found behind a cracked jar.
 
 Because two voices came for a child, and I am not as good as I was before I heard them.
 
-Because my mother knew about the knife and I need a different small thing now.
+Because my mother knew about the knife and I need a different small thing now, one true enough to open him and useless enough that no elder could have stored it.
 
 I said none of that. I said, "I came to sit."
 
-The watcher looked at me for a long time. Then she moved her foot from the threshold.
+The guard looked at me for a long time. Then she moved her foot from the threshold.
 
 The recall chamber was smaller than it had been in the hall's telling. There was no great light. Only a low whiteness under the sealed door and the smell of washed stone. Bowls had been set in rows along the wall. Some were empty. Some held ash darkened by water. Some held soil that had dried and cracked. Some held grain swollen nearly open.
 
@@ -290,7 +292,7 @@ Then I lifted my hand from the bowl.
 
 I did not call him.
 
-This is the part later singers prefer. They say I loved him enough not to spend him. They say I trusted the keeping. They say grief stood at the door and learned obedience before it learned appetite.
+This is the part later singers prefer. They say I loved him enough not to spend him. They say I trusted that he was preserved. They say grief stood at the door and learned obedience before it learned appetite.
 
 They were not there.
 
@@ -312,6 +314,6 @@ It was not all that remained closed.
 
 This bereaved-family witness preserves the first light-burial as a loss sharpened by possible contact. The narrator is not denied belief in the recall; the danger is that the recall works well enough to teach grief how to ask.
 
-The rule against calling "only because the mouth is hungry" is presented here as both mercy and deprivation. Later records warn that repeated recall could thin or distort a kept name, but this witness does not let that warning erase the violence felt by those left outside the chamber.
+The rule against calling "only because the mouth is hungry" is presented here as both mercy and deprivation. Later records warn that repeated recall could thin or distort a preserved name, but this witness does not let that warning erase the violence felt by those left outside the chamber.
 
 The final silence should not be read as simple faith. The narrator's refusal may protect the brother, obey the elders, fear the test, or preserve one last ordinary memory from becoming evidence. The text does not choose among these.

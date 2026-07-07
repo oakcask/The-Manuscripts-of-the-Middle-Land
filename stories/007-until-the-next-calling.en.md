@@ -1,16 +1,16 @@
 # Until the Next Calling
 
-> The grave keeper washed the living with the water of those who had cooled. He called first into the soil, then into the thinning sky. He did not record answer or refusal, but only the keeping until the next calling.
+> The grave keeper washed the living with the water of the cooled dead. He called first into the soil, then into the thinning sky. He entered neither answer nor refusal, but only the deferral: kept until the next calling.
 
 I began at the burial garden, because the dead should not hear last what the living have already feared.
 
-Before the lamps were trimmed, I stood between the rows and read the names in the order of their resting. Those who answered by stone were called. Those who answered by grass were called. Those whose markers had sunk were called by the small hollows where rain gathered. Those whose kin had forgotten the second name were called by the first, and I did not rebuke the kin.
+Before the lamps were trimmed, I stood between the rows and read the names in the order of their resting. The garden held the old record: name, soil, and the weight of answering kept together. Those who answered by stone were called. Those who answered by grass were called. Those whose markers had sunk were called by the small hollows where rain gathered. Those whose kin had forgotten the second name were called by the first, and I did not rebuke the kin.
 
-I made no separate list for those who returned and those who did not.
+I opened no separate register for names that returned and names that did not.
 
-That was my charge. On the night when Middle Land was to be taught its own carrying, no dead one was to be lost by haste, and no silent one was to be counted as absent because a living mouth had grown afraid.
+That was my charge. On the night when Middle Land was to be made ready for its own carrying, no dead person was to be lost by haste, and no silent grave was to be counted as absent because a living mouth had grown afraid. The living would enter the same order by forehead and water, but order is not consent, and water is not mercy by itself.
 
-There were three bowls at my feet. One held water drawn before the wells began to shiver. One held water that had washed the brows of the newly dead. One held the water kept for cooled names, covered with a cloth so no child would look into it and ask whose face had gone thin there.
+There were three bowls at my feet. One held water drawn before the wells began to shiver. One held water that had washed the brows of the newly dead. One held the water kept with cooled names, covered with a cloth so no child would look into it and ask whose face had gone thin there.
 
 I mixed them with my right hand. I did not bless them. Blessing belonged to the singers. I measured the chill with my wrist, as I had been taught by the old grave keeper who could tell from water alone whether a name would answer before morning.
 
@@ -60,7 +60,7 @@ At the grave of Saran the potter, the earth would not yield.
 
 The first call went down and came back with a taste of iron. The second call would not rise from my mouth. My tongue held it behind the teeth. Saran had fired the urns for half the burial garden. He knew the weight of ash. Perhaps the grave knew him too well to lend him to any other chamber.
 
-The watchers of the rim looked toward me. The singers lowered their voices. Saran's daughter stood with both hands inside her sleeves and did not ask me to force the name.
+The rim watchers looked toward me. The singers lowered their voices. Saran's daughter stood with both hands inside her sleeves and did not ask me to force the name.
 
 I lay down over the grave.
 
@@ -76,11 +76,11 @@ The grave moved under me.
 
 Not enough to open. Enough to be heard.
 
-I did not force the second calling. I placed Saran among those to be kept until the next calling. His daughter bent once, not in thanks and not in refusal. I accepted that.
+I did not force the second calling. I entered Saran in the deferral, among those to be kept until the next calling. His daughter bent once, not in thanks and not in refusal. I accepted that.
 
 Near midnight the chamber for cooled names was prepared.
 
-It was not above the ground, and it was not beneath the ground. The ship had begun to make depth where depth had not been. Those who bore bowls and tablets walked to the burial garden's eastern edge and descended without lowering their feet.
+It was not above the ground, and it was not beneath the ground. The ship had begun to make depth where depth had not been. The attendants with bowls and tablets walked to the burial garden's eastern edge and descended without lowering their feet.
 
 I followed with the covered water.
 
@@ -132,7 +132,7 @@ I called while the land shook. I called while the old measuring rods broke under
 
 The ship breathed before dawn.
 
-The breath did not come from one place. It entered the graves from below and the houses from within and the sleepers through their washed foreheads. It drew ancestor and child toward the same dark, not as comfort, but as a larger charge. I felt hands that had washed my hands when I was little. I felt hands I had washed after death. I felt hands not yet born, already owed clean water.
+The breath did not come from one place. It entered the graves from below and the houses from within and the sleepers through their washed foreheads. Grave records and the preservation of the living touched in the same dark, not as comfort, but as a larger charge. I felt hands that had washed my hands when I was little. I felt hands I had washed after death. I felt hands not yet born, already owed clean water.
 
 For a moment I understood why the singers used beautiful words.
 
@@ -168,7 +168,7 @@ There was also not complete silence.
 
 Something in the rooms held its breath after my voice. Something in the cooled chamber kept its frost without cracking. Something under Saran's unmarked place did not open and did not withdraw.
 
-I made the only record I could make.
+I made the only record of deferral I could make.
 
 Kept until the next calling.
 

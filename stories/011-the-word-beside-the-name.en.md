@@ -4,7 +4,7 @@
 
 When I heard that a refusal could be placed beside a name, I knew the rite had learned a new hunger.
 
-The elder spoke of it as mercy. He stood at the door of the cooled chamber with his hands washed and empty, and he said no one would be sent without the word that had stood near them in life. Consent would be placed there. Fear would be placed there. A quarrel, if the quarrel had not been healed. A debt. A forgiveness. A last kindness remembered by a neighbor when the family could not bear to remember anything.
+The elder spoke of it as mercy. He stood at the door of the cooling room with his hands washed and empty, and he said no one would be sent without a word that had remained beside their name in life. Consent would be placed there. Fear would be placed there. A quarrel, if the quarrel had not been healed. A debt. A forgiveness. A last kindness remembered by a neighbor when the family could not bear to remember anything.
 
 "And refusal?" I asked.
 
@@ -16,15 +16,15 @@ The people around him lowered their eyes in relief. Some had feared the rite wou
 
 That was the trouble.
 
-If he had said the no would be scraped away, I could have stood against him cleanly. If he had ordered silence, I could have shown the children where silence had been ordered. But he promised to keep the refusal. He promised to place it by the name, near the bowl, near the ash, near the water, near the soil, near the grain.
+If he had said the no would be scraped away, I could have stood against him cleanly. If he had ordered silence, I could have shown the children where silence had been ordered. But he promised to keep the refusal with the name. He promised to place it by the bowl, near the ash, near the water, near the soil, near the grain.
 
 He promised that nothing would be lost.
 
 I had already learned to fear that promise.
 
-The preparation began before the lamps were trimmed.
+The preparation began before the lamps were checked.
 
-The grave keepers brought ash from the houses where death had been named aloud. The seed stewards brought grain from jars that had not been opened since the first folding of the fields. Children came with soil in their hands, because the singers said a handful given by a child reminded the earth to be gentle. Water came last, covered in blue cloth.
+The grave keepers brought ash from the houses where death had been declared aloud. The seed stewards brought grain from jars that had not been opened since the first folding of the fields. Children came with soil in their hands, because the singers said a handful given by a child reminded the earth to be gentle. Water came last, covered in blue cloth.
 
 I watched the bowls set out in a line.
 
@@ -44,7 +44,7 @@ It is easy to resist a cruel hand. A cruel hand gives the body a wall to press a
 
 My sister Leme lay among the sleepers.
 
-She had not died. That was the first thing our mother said to anyone who looked too long at the pallet. Leme had gone into preserving sleep after the fever took her legs and left the rest of her listening. Some mornings her eyelids moved when our mother ground barley. Some evenings her mouth shaped the first sound of my name and then forgot the road outward.
+She had not died. That was the first thing our mother said to anyone who looked too long at the pallet. Leme had gone into preservation sleep after the fever took her legs and left the rest of her listening. Some mornings her eyelids moved when our mother ground barley. Some evenings her mouth shaped the first sound of my name and then forgot the road outward.
 
 Now she was carried with the dead.
 
@@ -86,11 +86,11 @@ That was how the rite kept winning.
 
 Names were called after the washing.
 
-Birth, burial, debt, forgiveness, field, threshold, quarrel, song, kindness. Each name was touched by the words that had held it in the village. A dead woman's debt was named by the man she had cheated and later fed through winter. A sleeper's kindness was named by a girl who had once been given a torn sandal. My sister's name came with field, song, and the small quarrel she and I had not finished about whether our father's knife belonged to the house or the hand that used it.
+Birth, burial, debt, forgiveness, field, threshold, quarrel, song, kindness. Each name received the neighboring words that had held it in the village. A dead woman's debt was named by the man she had cheated and later fed through winter. A sleeper's kindness was named by a girl who had once been given a torn sandal. My sister's name came with field, song, and the small quarrel she and I had not finished about whether our father's knife belonged to the house or the hand that used it.
 
 Then came a name that withdrew.
 
-It belonged to a man called Serat, who had refused the first gathering and later asked to be placed among the dead without song. When the keeper reached his bowl, the flame inside the lamp narrowed. The water tightened. The slip bearing his name curled away from the ash as if the letters had remembered a door.
+It belonged to a man called Serat, who had refused the first gathering of names and later asked to be placed among the dead without song. When the keeper reached his bowl, the flame inside the lamp narrowed. The surface of the water tightened. The slip bearing his name curled away from the ash as if the letters had remembered a door.
 
 I stood up.
 
@@ -106,7 +106,7 @@ Withdrawal before loosening.
 
 Covered until second measure.
 
-The no entered the record as a step.
+The no entered the record as a condition and a step.
 
 I wanted him to shout. I wanted the chamber to crack. I wanted Serat's name to become a stone no hand could lift. Instead the keeper made room for the refusal, and by making room he took away the place from which refusal could stand outside the rite.
 
@@ -122,9 +122,9 @@ The keeper noted the sound.
 
 When the first sending ended, the people did not move. We had been told there would be no calling back for comfort. We had been told the rite was not a door to be opened whenever grief grew hungry. Even I had almost believed that rule. A people who could call and did not call might still know that not everything could be owned.
 
-Then the elders chose three names for proof.
+Then the elders chose three names for testing.
 
-They did not call it proof. They called it first hearing.
+They did not call it testing. They called it first hearing.
 
 The warm name answered first. It belonged to a woman whose sons had fought over her loom. The elder asked where she had hidden the blue shuttle. The answer came from the light by the bowl, soft and irritated, as she had been in life.
 
@@ -214,7 +214,7 @@ I do not know which hand was kinder.
 
 ## Translator's Note
 
-This resister witness shares the event core of the light-burial traditions but shifts the danger: the rite is frightening not because it ignores refusal, but because it preserves refusal so carefully that refusal may become part of the rite's own evidence.
+This resister witness shares the event core of the light-burial traditions but shifts the danger: the rite is frightening not because it ignores refusal, but because it preserves refusal so carefully that refusal may become one of the neighboring records by which the rite proves its care.
 
 The withdrawing name of Serat is treated by the keeper as a procedural condition rather than a revelation. Later orthodox copies read that handling as patience. The heretical line reads it as absorption: even a name's retreat becomes a mark, a measure, and a covered bowl.
 

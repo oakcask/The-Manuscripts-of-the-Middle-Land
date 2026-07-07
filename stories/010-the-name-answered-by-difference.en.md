@@ -24,13 +24,13 @@ He looked at me as if I had spoken against kindness.
 
 "With the names."
 
-He obeyed, but his mouth tightened. He had been taught that a refusal was a sorrow beside the rite, not part of what the rite must carry. I had been taught otherwise. A name sent without its refusal returns too smooth. It answers quickly and cannot be trusted.
+He obeyed, but his mouth tightened. He had been taught that a refusal was a sorrow beside the rite, not part of what the rite must include. I had been taught otherwise. A name sent without its refusal returns too smooth. It answers quickly and cannot be trusted.
 
 When the first bell sounded, I checked the table.
 
 Ash. Water. Soil. Grain. Warm name. Cooled name. Quarrel. Debt. Forgiveness. Refusal.
 
-No mark stood alone. No mark was holy enough to be spared the others. I touched each one with the reed and waited for the table to accept the order.
+No entry stood alone. No sign was holy enough to be spared the others. No answer would be trusted from one sign only. I touched each one with the reed and waited for the table to accept the order.
 
 It accepted the ash after the second touch. The water at once. The soil slowly, because some of it had come from graves and some from fields, and soil does not forget which hand opened it. The grain trembled until the storekeeper spat into his palm and pressed the mark flat. He had given more than he wished to give. That, too, had to be known.
 
@@ -54,6 +54,8 @@ Debt came next. Forgiveness after debt. Field after forgiveness. Threshold after
 
 The people liked kindness last. They thought it softened the order. I had never liked it. A kindness is a hook with a clean face. Give the grieving a kind act, and they will call the dead back through it until the act wears thin.
 
+To me the order was not comfort. It was a way to check one sign against another before grief could choose the easiest one.
+
 At the washing, the undertakers uncovered the first bodies.
 
 The dead lay on the lower stones. The sleepers lay on the upper frames, breathing under bands of cloth. Between them stood one basin of water.
@@ -68,7 +70,9 @@ I watched the order of hands.
 
 Old undertaker, left hand, dead woman of the second well. Young undertaker, right hand, sleeper with fever. Singer, both hands, child without work name. Mother, shaking hand, same child, because the child had borrowed her hunger name until the chamber opened.
 
-Every hand changed the water. Every brow changed it again. If the chamber failed, later grief would blame the water first, then the hand, then the one who had written the hand. I kept the reed still until the last drop fell back into the basin.
+Every hand changed the water. Every brow changed it again. If the procedure failed, later grief would blame the water first, then the hand, then the one who had recorded the hand. I kept the reed still until the last drop fell back into the basin.
+
+So I wrote the hands in order. A true answer with the wrong hand beside it would not be true enough.
 
 The first light appeared under the lower stones.
 
@@ -96,7 +100,7 @@ She turned on me.
 
 She hated me for that. She may have been right to hate me. Warmth can comfort a chamber, but forced warmth changes the shape of a name. A cooled name that answers coldly has not failed. A warmed name that answers in another's heat may never be found again.
 
-We moved that bowl to the chamber of cooled names. The family watched as if we were burying the person a second time. I marked the transfer without looking up.
+We moved that bowl to the chamber of cooled names. The family watched as if we were burying the person a second time. I recorded the transfer without looking up.
 
 Then a child's name clung to a living tongue.
 
@@ -132,7 +136,7 @@ Some marks went easily. Some dragged the bowls toward the threshold. One refusal
 
 The youngest keeper made the sign against curses.
 
-"No," I said. "Mark it present."
+"No," I said. "Record it as present."
 
 "It struck."
 
@@ -160,9 +164,11 @@ Under the cracked millstone. Wrapped in blue. Not the good blue. The faded one.
 
 The daughter screamed because it was true. The whole chamber leaned toward her joy.
 
-I marked the answer true.
+I recorded the answer as true.
 
-I did not mark returned.
+I did not record return.
+
+It was true against the daughter's question, the shoes, the cracked millstone, and the faded cloth. It was not yet true against breath.
 
 The elders noticed. Their faces closed, but they said nothing yet.
 
@@ -200,9 +206,9 @@ There was none.
 
 No one thanked me. I did not expect thanks. A difference is a poor comfort to those who want a mouth. But the sons had not been exchanged. The rain had not been exchanged. The hand that knew clay had not warmed itself falsely in a borrowed voice.
 
-I marked the answer distinct.
+I recorded the answer as distinct. I recorded that the checks against son, rain, and clay had held.
 
-I did not mark returned.
+I did not record return.
 
 Then came the child's name.
 
@@ -238,7 +244,7 @@ The mother cried, "My child."
 
 The sister with the bitten mouth cried, "My brother."
 
-The elders rose. The singers began three different lines at once. The youngest keeper looked at me with terror, waiting for the mark that would make the answer lawful.
+The elders rose. The singers began three different lines at once. The youngest keeper looked at me with terror, waiting for the entry that would make the answer lawful.
 
 I covered the bowl.
 
@@ -249,6 +255,8 @@ The mother tried to pull the cloth away. The sister tried to help her. For a mom
 I let them fight until their strength failed. Then I set one palm on the cloth, not to claim it, only to keep it from being torn.
 
 "If we ask again," I said, "we will teach it to answer our need."
+
+In the record I left the line unjudged: two voices; source not distinguished; do not test again.
 
 The chamber quieted. Not because they agreed. Because they heard the danger and did not know how to hate it.
 
@@ -290,13 +298,13 @@ He left me then.
 
 Near dawn I made the chamber copy.
 
-For the woman of the third well: answer true; return unjudged.
+For the woman of the third well: answer true; matched by hidden place and cloth; return unjudged; person unproved.
 
-For the potter: answer present by difference; return unjudged.
+For the potter: answer present by difference; distinctions held; return unjudged.
 
-For the borrowed hunger name and the name released from the sister's tongue: answer present; return unjudged.
+For the borrowed hunger name and the name released from the sister's tongue: answer present; sources not distinguished; return unjudged.
 
-Beside the refusals I wrote: refusal present; carried with name; do not smooth.
+Beside the refusals I wrote: refusal present; included with name; do not smooth.
 
 Beside the handprint I wrote: struck table once; answer present; return unjudged.
 
@@ -326,4 +334,4 @@ This story belongs to the operator-funerary strand of the light-burial tradition
 
 The central instability is the distinction between an answer and a return. The record's line, "answer present; return unjudged," refuses to deny the response while also refusing to identify it as the restored person. The later red addition, "kept," may be a pious correction, a scribal simplification, or evidence that later communities could no longer bear the older hesitation.
 
-I have kept the story body's language close to the chamber table and avoided modern terms for verification or data. The operator's anxiety is nevertheless clear: a true answer can become dangerous when grief is allowed to treat it as possession.
+I have kept the story body's language close to the chamber table and avoided modern terms for data. The operator's anxiety is nevertheless clear: a true answer is only a limited check unless it can be distinguished from every nearby name, and even a strong distinction is not possession.

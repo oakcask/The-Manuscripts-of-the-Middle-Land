@@ -53,3 +53,17 @@ For Japanese prose, do not preserve English word order, metaphor, or ambiguity w
 When revising a story sentence, test whether the phrase would still be worth keeping if the reader did not know the myth-system behind it. If not, simplify it or move the pressure into action, dialogue, image, or surrounding context.
 
 Prefer one clear concrete phrase over a literal phrase that mainly signals hidden cosmology.
+
+Do not default to preserving myth-body terms in short-story prose. When a story locally fixes a scientific interpretation, prefer ordinary nouns, observation terms, or institutional terms that make that local scene easier to follow. For example, if a sky-lamp is treated as an astronomical body within a specific story, the story body may call it a star.
+
+This lexical clarification is story-local. Do not use it to fix the vocabulary of myth bodies, lexicon entries, or other stories. Keep mythic terms when a character is using ritual language, when the manuscript stance needs that pressure, or when an ordinary replacement would erase an important ambiguity.
+
+## Scientific Interpretation Rules
+
+Short stories may locally fix one scientific interpretation of mythic events, as long as the fixed model remains consistent within that story.
+
+Treat the fixed interpretation as a story-level hypothesis, not project canon. Do not use a short story's model to narrow the ambiguity of the corresponding myth body, lexicon entry, or another story unless the user explicitly asks.
+
+In story prose, prefer concrete action, observation, instrument behavior, bodily cost, institutional response, and character consequence over abstract explanation. Scientific clarity should make the scene easier to inhabit, not turn the story into a glossary.
+
+Translator notes or frame material may reopen uncertainty after the story, but should not make the internal plot feel incoherent unless unreliability is the intended effect.

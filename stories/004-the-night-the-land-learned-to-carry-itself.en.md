@@ -6,17 +6,19 @@ I was told before sunset which words my mouth might hold.
 
 Not killing. Not triumph. Not the breaking of Middle Land.
 
-Preserving sleep. Gathering. The second shelter. Light-burial, if the lamps came clean. Ship, if the ground answered without tearing.
+Preservation sleep, with every breath counted together. Gathering. The second shelter, with a place prepared for each house. Light-burial, if the lamps came clean. Ship, if the ground answered without tearing.
 
 The elder who instructed me did not speak as one hiding a knife. His hands trembled when he tightened the cord at my wrist, and I loved him for that. A cruel hand can be steady. A hand that trembles may still bless.
 
-"If your voice breaks," he said, "begin again at the word together."
+"If your voice breaks," he said, "begin again at the word together. The hands will follow you there."
 
 So I learned where to begin again.
 
 Before the first star, I walked the places where the people lay down. They had not been driven there. I must say this, because the old song says it. I must also say that some were carried by those who could still sing.
 
 In the houses, mats had been laid beside the hearths. Grandmothers lay with their hands open, palms upward, as if receiving bread. Children lay between door and wall, where a morning foot would find them first. Men who had quarreled over water rights lay shoulder to shoulder because their fields were going to be folded before their anger could finish itself.
+
+At each threshold a singer stood and kept the house-breath slow. When the verse lengthened, the sleepers' ribs lengthened with it. When the verse shortened, the waiting hands moved.
 
 In the last ordinary fields, the seed stewards moved among the rows. Each sleeping mouth received one grain. Barley for those whose houses had barley in the roof smoke. Millet for those who had kept millet through famine. A bitter seed for the families who had asked that no sweetness be put on their tongues until the ship knew their dead.
 
@@ -28,11 +30,11 @@ No one rebuked me. The undertaker nearest me lifted the bowl again and waited. T
 
 I had been given a line for this.
 
-The living are washed because they will be kept near the dead.
+The living are washed so the dead may find their place beside them.
 
 I sang it. The line was permitted. The line was beautiful. It did not keep the woman's eyes from following the burial water back into the bowl.
 
-At the granary, those who kept the names stood in two rows. Each name was spoken once toward the soil and once toward the thinning sky.
+At the granary, the namekeepers stood in two rows, soil-row and sky-row. Each name was spoken once toward the soil and once toward the thinning sky.
 
 The first calling was easy. The soil knew us. Even when names had cooled, the ground held the shape of their former warmth. I heard mothers speak infant names, work names, shame names, forgiven names. I heard a brother give his dead sister's anger name and flinch when the soil accepted it.
 
@@ -44,13 +46,15 @@ I sang louder.
 
 A name belongs to the soil. A name belongs to the high road. A name belongs to the people who carry bread to its door.
 
+The rows answered in order. Soil first. Sky second. Bread third. We had been taught that order until the tongue could keep it when the mind could not.
+
 At the third repeating, my own father's cooled name shook in my mouth.
 
 He had died under the closed sky, before the watchers brought down their marks, before the graves began to answer late. We had thought the old ground would be enough for him. Now I spoke him to the soil and then to the thinning sky, and my throat understood before my mind did: the soil alone was no longer a full house.
 
 The old measuring rods were brought to the common fire after moonrise. They had measured field, roof, road, grave, bride price, water turn, and the space between two feuding houses. We had sworn by them. We had cheated by them. We had reconciled under them.
 
-The edge-keepers lifted them one by one.
+The boundary wardens lifted them one by one.
 
 I was to sing gratitude.
 
@@ -70,7 +74,7 @@ Near midnight the houses began to draw inward.
 
 Not falling. I was not to call it falling. Not collapse. Not devouring. The permitted word was folding.
 
-The first house folded cleanly. Its threshold bent like a knee. Its hearthstone dimmed and drew its ash into itself. The sleeping family did not wake. Their warm names rang once from the beams and once from the floor. Then the room was no longer wide enough for a body, yet no body seemed crushed. It had become a chamber in the deep body of the ship.
+The first house folded cleanly. Its threshold bent like a knee. Its hearthstone dimmed and drew its ash into itself. The sleeping family did not wake; the singer at the door held them to the long breath. Their warm names rang once from the beams and once from the floor. Then the room was no longer wide enough for a body, yet no body seemed crushed. It had become a chamber in the deep body of the ship.
 
 The people watching breathed again.
 
@@ -80,9 +84,11 @@ The second house resisted.
 
 Its door would not turn inward. The lintel shook. The mat where an old woman slept slid toward the wall and then back, as if the house remembered every morning she had crossed it with water in both hands. Her grandson began to rise. Two singers put their palms on his shoulders and sang him down.
 
+They did not press hard. They matched his breath and gave it back to the room more slowly.
+
 I sang the line I had been given.
 
-No house that has fed the people is broken. No house that has named the people is lost. What bends is gathered. What narrows is kept.
+No house that has fed the people is broken. No house that has named the people is lost. What bends is gathered. What narrows is given its chamber.
 
 The door groaned.
 
@@ -99,6 +105,8 @@ A child cried out, "My game!"
 Her mother covered her mouth. I wished she had not. A small loss named in time may become bread. A small loss swallowed may become a stone.
 
 But I did not stop singing. The path had begun to fray at the edge, and if the song failed there, the sleepers beside the granary might wake without a road under their names.
+
+So I kept the walking verse: left hand to soil, right hand to sky, one foot named before the other. The boundary wardens knew the turn by that verse.
 
 Then a name split.
 
@@ -140,7 +148,7 @@ The people looked at me.
 
 I sang the official ending.
 
-Middle Land is not abandoned. Middle Land is carried. The ship is the second shelter. The sleepers are preserved. The dead are not asked to travel alone. The houses are not lost. The roads are not lost. The names are not lost. We are gathered, and because we are gathered, we remain the people.
+Middle Land is not abandoned. Middle Land is carried. The ship is the second shelter, prepared room by room. The sleepers are preserved in their slow breath. The dead are not asked to travel alone. The houses are not lost. The roads are not lost. The names are not lost. We are gathered, and because we are gathered, we remain the people.
 
 At gathered, my voice stopped.
 
@@ -160,7 +168,7 @@ That is the sentence I was given. That is the sentence I still carry. I do not k
 
 ## Translator's Note
 
-The source tradition behind this story prefers words of preservation: "preserving sleep," "gathering," "second shelter," and "ship." I have not flattened them into euphemism, because the singer does not appear to be lying. The terms may be ritual tools for making terror bearable at communal scale.
+The source tradition behind this story prefers words of preservation: "preservation sleep," "gathering," "second shelter," and "ship." I have not flattened them into euphemism, because the singer does not appear to be lying. The terms may be ritual tools for making terror bearable at communal scale.
 
 That does not make them harmless. The same words that keep Yaret's divided name from being lost also prevent his wife from naming the violence done to him. The orthodox version may preserve a real mercy while teaching readers where not to look.
 

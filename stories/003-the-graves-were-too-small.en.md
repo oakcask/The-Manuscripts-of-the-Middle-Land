@@ -2,9 +2,9 @@
 
 > The undertakers spoke. They said the dead must not be asked to bear every new fear. They said the graves had begun to feel too small under the widened sky.
 
-I first noticed it in the north ground, before the watchers brought down their marks.
+I first noticed it in the northern burial ground, before the observers brought down their measurements.
 
-The grave was not narrow. I had measured it myself when we laid Arem under the soil. Shoulder room, knee room, hand room, name room. The cord had touched all four corners and come back clean. His daughters had warmed his name for seven mornings. His wife had poured water until the dust held its shape.
+The grave was not narrow. I had measured it myself when we laid Arem under the soil. Room for shoulder, knee, hand, and name. The cord had touched all four corners and come back clean. His daughters had warmed his name for seven mornings. His wife had poured water until the soil held its shape.
 
 Yet when I called him at moonrise, the answer came late.
 
@@ -16,11 +16,11 @@ I blamed the season. The lower soil had kept winter longer than usual. I put ash
 
 I told no one that night.
 
-The second late name was Isha of the west threshing floor. The third was a child who had died before receiving a work name. That frightened me more than Arem. The very young usually answer quickly, because fewer names lie between the mouth and the soil.
+The second late name was Isha of the west threshing floor. The third was a child who had died before receiving a work name. That frightened me more than Arem. The very young usually answer quickly, because fewer names have to hold them between the mouth and the soil.
 
-On the same nights the watchers climbed the rises. I did not go with them. My height is the grave edge. My sky is the space between the last handful of soil and the first word of mourning.
+On the same nights the observers climbed the rises. I did not go with them. My height is the grave edge. My sky is the space between the last handful of soil and the first word of mourning.
 
-Still, I saw their lamps moving above the burial ground. I heard their counting stop. I heard one of them retch behind the stone wall before dawn.
+Still, I saw their handlamps moving above the burial ground. I heard their counting stop. I heard one of them retch behind the stone wall before dawn.
 
 On the fourth night I went to the elders.
 
@@ -30,7 +30,7 @@ The elders asked whether the graves had sunk.
 
 "No."
 
-They asked whether water had entered the north ground.
+They asked whether water had entered the northern burial ground.
 
 "No."
 
@@ -40,35 +40,35 @@ They asked whether the families had neglected the warm names.
 
 Then they were silent. Silence is sometimes a door. This silence was a wall being built quickly.
 
-When the watchers came down after seven nights, I had already widened no grave and moved no stone. A frightened hand can do injury while calling itself care. I washed the grave tools instead. I sharpened the small spade used for children. I filled three bowls with soil from the oldest field and covered them with cloth.
+When the observers came down after seven nights, I had already widened no grave and moved no stone. A frightened hand can do injury while calling itself care. I washed the burial tools instead. I sharpened the small spade used for children. I filled three bowls with soil from the oldest field and covered them with cloth.
 
-In the common house the watchers placed their marks, their cord, and their broken song on the floor. The makers of measures sat apart. The singers kept touching their throats. Children gathered at the doors with the boldness of those who have not yet learned which wounds belong to them.
+In the common house the observers placed their observation records, their cord, and their broken song on the floor. The surveyors sat apart. The singers kept touching their throats. Children gathered at the doors with the boldness of those who have not yet learned which wounds belong to them.
 
-The elders gave the watchers bread.
+The elders gave the observers bread.
 
 Then they gave them sleeping cloth.
 
-While the watchers slept, I went back to the north ground. I knelt between Arem and Isha and asked the dead to remain patient with the living.
+While the observers slept, I went back to the northern burial ground. I knelt between Arem and Isha and asked the dead to remain patient with the living.
 
 This was not comfort. It was a renewal of debt.
 
-"If the living have looked too far," I said, "do not let your names flee from us in anger. If the sky has widened, forgive the mouth that cannot yet warm you across it. If the soil itself is asked to learn a road, do not think we have abandoned you before the road is named."
+"If the living have looked too far," I said, "do not let your names flee from us in anger. If the sky has widened, forgive the mouth that cannot yet warm you within it. If the soil itself is asked to learn a road, do not think we have abandoned you before the road is named."
 
 The ground did not answer. Or it answered in the old way, by holding.
 
-At dawn the watchers woke. They did not speak of the rim until a child asked whether the lost lamp had found its house.
+At dawn the observers woke. They did not speak of the horizon until a child asked whether the lost lamp had found its house.
 
-Every watcher turned.
+Every observer turned.
 
-In that turning I understood what the graves had been trying to tell me. If a lamp could lose its house, then a name could lose its grave. If the sky had become wide enough to misplace light, then the soil might become too small to keep the dead near the mouths that loved them.
+In that turning I understood what the graves had been trying to tell me. If a lamp could lose its house, then a name could lose its grave. If the sky had become wide enough to misplace light, then the soil might become too small to keep the dead joined to the mouths that loved them.
 
 The council was called.
 
 I sat with the undertakers. We had washed our hands, but ash remained in the nail beds. It is good for ash to remain. Clean hands at a council of names are a kind of lie.
 
-The watchers spoke first. They said their seeing had outrun their singing. They did not ask the dead to carry the blame. For this I honored them.
+The observers spoke first. They said their observations had outrun their singing. They did not ask the dead to carry the blame. For this I honored them.
 
-The makers of measures did not say the songs were false. For this I honored them also.
+The surveyors did not say the songs were false. For this I honored them also.
 
 When the undertakers were called, I carried Arem's call bowl to the center. It held no bone, no hair, no relic. Only the mark left by warm water and ash.
 
@@ -88,7 +88,7 @@ Then the children were called. One asked whether looking had harmed the lamps. O
 
 Will you move us?
 
-Will you call it keeping?
+Will you call it custody?
 
 Will our names still be ours when warmed by another house?
 
@@ -126,7 +126,7 @@ Her son saw me. His face tightened.
 
 "Perhaps."
 
-"Is it for keeping?"
+"Is it for custody?"
 
 "Perhaps."
 
@@ -138,10 +138,10 @@ I will not say whether that was preservation, betrayal, or the first small rehea
 
 ## Translator's Note
 
-The phrase translated as "grave" may refer to a burial cut, a household custody place, a name vessel, or a fixed relation between body, soil, and caller. The witness resists choosing among these, and I have followed that resistance.
+The phrase translated as "grave" may refer to a burial cut, a household custody place, a name vessel, or a stable relation between body, soil, and caller. The witness resists choosing among these, and I have followed that resistance.
 
 I have rendered the office as "undertaker" despite the word's later trade associations. Here it does not mean a funeral merchant. It means one who undertakes the dead: burial, address, warming, custody, and the dangerous care that continues after soil has closed.
 
-"Too small" is almost certainly not a simple measurement complaint. It may indicate that the grave can no longer hold all required references once the sky is widened by watching. I am using "reference" here in the note, not in the body; the manuscript itself says only that names answer late.
+"Too small" is almost certainly not a simple measurement complaint. It may indicate that the grave can no longer hold all the ties by which a name can be called back once the sky is widened by watching. I am using "ties" here in the note, not in the body; the manuscript itself says only that names answer late.
 
 The bowl of soil is the most compromised object in the passage. Later traditions call such carrying mercy. Some call it the first theft from the dead. I cannot tell whether this version preserves an origin, hides a crime, or teaches the reader to accept the later ship-making before it has been named.

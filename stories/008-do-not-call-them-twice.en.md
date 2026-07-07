@@ -6,7 +6,7 @@ Before I chose the names to call, I made the list of names that would not be cal
 
 This was not the part the elders wished to see. They had asked me for three names, three answers, and a clean saying for the people: the sent ones had not been lost. I gave them neither the saying nor the names at first. I sat on the cold floor before the chamber of cooled names and wrote the forbidden list while the grave keepers washed the bowls.
 
-The first names I set aside belonged to houses whose grief was still stronger than hearing. If the answer came, they would feed on it until the answer thinned. If no answer came, they would call again with sharper mouths.
+The first names I set aside belonged to houses whose grief was still stronger than hearing. If the answer came, they would feed on the response until it thinned. If no answer came, they would call again with sharper mouths.
 
 The second names belonged to houses where the quarrel had not been forgiven. A brother who wanted a debt settled by the dead. A daughter who wanted the old refusal changed. A widow who had learned the exact question that would make her right. I wrote each name and drew a line beside it.
 
@@ -22,7 +22,7 @@ My office is mistaken by those who love me. They think I keep names as a storeho
 
 But a name is not kept by owning it.
 
-A name is kept by knowing where not to place the mouth.
+A name is kept by knowing where not to place the next question.
 
 At dawn the bowls were ready. Ash, water, soil, and grain were set before the first bright chamber. The singers stood with their hands uncovered. The grave keepers carried tablets darkened by old rain. Children were allowed to stand behind the second rope, where they could see the washing but not the tablets.
 
@@ -48,7 +48,7 @@ Kindness.
 
 I feared the last order most.
 
-No house calls back the dead for a field boundary when the night is young. No mother spends her first hunger asking about a roof beam. But kindness leaves small hooks in the mouth. The loaf given in a hard winter. The hand placed over a cup before anger could spill. The laugh forgiven in a room of mourning. A name called by kindness comes close enough to be begged.
+No house calls back the dead for a field boundary so early in the night. No mother spends her first desperate need asking about a roof beam. But kindness leaves small hooks in the mouth. The loaf given in a hard winter. The hand placed over a cup before anger could spill. The laugh forgiven in a room of mourning. A name called by kindness comes close enough to be begged.
 
 The singers knew this. That is why they put kindness last.
 
@@ -68,7 +68,7 @@ One of the singers answered that all who traveled needed a clean brow.
 
 That was a beautiful answer. It was also incomplete.
 
-The same water taught the living not to trust the old border. It taught the dead not to be claimed by death alone. It taught my hand that when I later called, no answer could be sorted by water. I hated that teaching. I also received it.
+The same water taught the living not to trust the old border between the dead and the living. It taught the dead not to be claimed by death alone. It taught my hand that when I later called, no answer could be sorted by the washing. I hated that teaching. I also received it.
 
 When the first chamber opened, the light did not pour out.
 
@@ -102,11 +102,11 @@ Mara, daughter of En, had answered by warmth all through the preparation. Bread 
 
 Kindly was not what I needed.
 
-I needed one question with an answer that could be wrong.
+I needed one recognition question with an answer that could be wrong.
 
 Her sister knelt beside the bowl and put both hands under her own knees so she would not reach forward.
 
-"Mara," I called, "daughter of En, who was sent in ash, water, soil, and grain. If the calling reaches you, answer only once."
+"Mara," I called, "daughter of En, who was sent in ash, water, soil, and grain. If this calling reaches your kept name, answer only once."
 
 The bowl warmed.
 
@@ -128,7 +128,7 @@ The people breathed in.
 
 That was the dangerous moment. Not the answer. The breathing in. A whole room learning the shape of a new hunger.
 
-I marked the tablet: manifestly recognized.
+I marked the tablet with the first recognition sign: manifestly recognized.
 
 The sister whispered Mara's name again.
 
@@ -136,7 +136,7 @@ I covered the bowl before the second syllable could warm.
 
 The second name had been cold since burial.
 
-Tovan of the red door had answered by distinction, never by tenderness. His tablet did not warm when touched by kin. It did not dim when cursed by an old debtor. If another name was placed too near, the frost on Tovan's tablet sharpened. In the chamber of cooled names, he lay apart without complaint.
+Tovan of the red door had answered by precise difference, never by tenderness. His tablet did not warm when touched by kin. It did not dim when cursed by an old debtor. If another name was placed too near, the frost on Tovan's tablet sharpened. In the chamber of cooled names, he lay apart without complaint.
 
 His sons hated this.
 
@@ -156,13 +156,13 @@ The elder son said, "It means the western door."
 
 "No," said the younger. His face had changed. "It means the one with four nailheads. Before the paint. He always counted them when he came home drunk."
 
-The frost held.
+The frost stayed.
 
 Not warm. Not kind. Not enough for sons who had hoped their father would come back with a softer mouth.
 
 But not mistaken.
 
-I marked the tablet: recognized.
+I marked the tablet with the second recognition sign: recognized.
 
 The younger son asked, "Will he never speak?"
 
@@ -182,7 +182,7 @@ During light-burial the name had clung to the tongues of other children. Three o
 
 I set both name tablets beside the bowl.
 
-"Lio-Iren," I called, though no one had called the child that in life. "Iren-Lio. Child of the north house, child of the red shawl, child who was sent in ash, water, soil, and grain. If the calling reaches you, answer only once."
+"Lio-Iren," I called, though no one had called the child that in life. "Iren-Lio. Child of the north house, child of the red shawl, child who was sent in ash, water, soil, and grain. If this calling reaches your kept name, answer only once."
 
 The bowl did not warm.
 
@@ -218,7 +218,7 @@ An elder said, "We must know which answer is true."
 
 I looked at the mother first. If she had asked me, I do not know whether I would have had strength. But she was holding her own hands against her breast, and her mouth was closed around the child's names.
 
-"No," I said. "If we ask again, we do not learn the child. We teach the wound to answer."
+"No," I said. "If we ask again, we do not learn the child. We teach the wound the shape of our question."
 
 The elder turned away from me. He turned to the singers, because singers can make refusal sound obedient.
 
@@ -244,7 +244,7 @@ I wiped the rim of the bowl. "I cannot."
 
 He did not strike me. He was not a cruel man. Cruel men are easier to refuse. He was tired and frightened and responsible for a people who had just learned that some part of the sent ones might still hear them. He wanted a gate with a keeper. I was the keeper. He wanted the gate named mercy.
 
-I wanted the gate kept shut between necessary callings.
+I wanted the gate opened only for necessary callings.
 
 That evening I made the record.
 
@@ -258,15 +258,15 @@ Tovan of the red door: recognized.
 
 Lio-Iren, Iren-Lio: not yet recognized.
 
-I paused over the last mark. Not yet recognized is not refusal. It is not failure. It is the covered bowl. It is the hand stopped before it reaches again. It is the knowledge that a question can bruise what it asks toward.
+I paused over the last mark. Not yet recognized is not refusal. It is not failure. It is the covered bowl. It is the hand stopped before it reaches again. It is the knowledge that a second question can bruise what the first one reached.
 
 Outside, families had begun teaching one another what had happened. Already the story was sweeter in some mouths and darker in others. Already Mara had returned. Already Tovan had forgiven no one. Already the child had spoken from two worlds, or from one wound, or from the mother's longing. By morning, each house would have its own answer.
 
 I could not prevent that.
 
-I could only keep the list.
+I could only guard the list.
 
-Before I covered the record, I returned to the names most likely to be begged for. The mother with the shawl. The sister with her forehead to the floor. The sons who had learned that distinction is a poor substitute for embrace. The houses where kindness had left its hooks.
+Before I covered the record, I returned to the names most likely to be begged for. The mother with the shawl. The sister with her forehead to the floor. The sons who had learned that precise difference is a poor substitute for embrace. The houses where kindness had left its hooks.
 
 Beside those names, in a smaller hand, I wrote the rule that would be called mercy by some and cruelty by others.
 
@@ -274,12 +274,12 @@ Do not call them twice.
 
 Then I placed my own name at the bottom of the page, not among those called and not among those forbidden.
 
-I wrote it there so that if I ever asked to hear one of them again for my own comfort, another keeper would know which name to withhold.
+I wrote it there so that if I ever asked to hear one of them again for my own comfort, another namekeeper would know which name to withhold.
 
 ## Translator's Note
 
 This namekeeper witness does not deny that the first answers were meaningful. Its caution falls on the use of answers as proof, property, or repeatable consolation.
 
-The three marks rendered here as "manifestly recognized," "recognized," and "not yet recognized" do not settle what answered. The sequence records degrees of recognition rather than proof of return. The first mark may record an answer fully joined to the name, the second an answer reliably separated from other names, and the third an answer whose recognition has not been completed. None of the three requires the answer to be a returned person; none excludes it.
+The three marks rendered here as "manifestly recognized," "recognized," and "not yet recognized" do not settle what answered. The sequence records degrees of recognition rather than proof of return. The first mark may record an answer fully joined to the name, the second an answer reliably separated from other names, and the third an answer whose recognition has not been completed or should not be trained further by questioning. None of the three requires the answer to be a returned person; none excludes it.
 
-The rule "do not call them twice" may protect the sent names from wear, or it may protect the office of the namekeeper from questions it could not survive. Later copies often soften the final sentence into a pastoral command. This witness leaves the rule harsher than that.
+The rule "do not call them twice" may protect the sent names from wear or from learning the shape of repeated need, or it may protect the office of the namekeeper from questions it could not survive. Later copies often soften the final sentence into a pastoral command. This witness leaves the rule harsher than that.

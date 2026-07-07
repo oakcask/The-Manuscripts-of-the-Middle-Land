@@ -2,17 +2,17 @@
 
 > The later singers say the rods were broken so that no elder would mistake the old breadth of a field for the breadth required by the ship. The operator's copy gives a colder instruction: after the rods are broken, do not measure against them again.
 
-Before the common fire was lit, I checked the tables for the last time.
+Before the common fire was lit, I checked the input tables for the last time.
 
 Soil from each boundary. Ash from each hearth. Water from each well. A little dark from each closed room. Warm names from the mouths that still answered. Cooled names from the burial gardens. Refusals, where a hand had struck away the bowl. Oaths, where two enemies had sworn to be carried without forgiving.
 
-All were written in one order.
+All were written in one reference order.
 
-The order troubled the younger keepers. They wanted the holy things apart from the dirty things, the names apart from the water, the vows apart from the refusals. I told them to leave the marks as they had been gathered.
+The order troubled the younger keepers. They wanted the holy things apart from the dirty things, the names apart from the water, the vows apart from the refusals. I told them to leave the marks in the order by which they could answer one another.
 
 "A road that refuses the grave will not know where to turn," I said.
 
-This was not wisdom. It was the rule by which I had been taught. What is not placed in the order cannot be sought after departure. What is sought after departure and has no place becomes a cry in the hull.
+This was not wisdom. It was the rule by which I had been taught. What is not placed in the reference order cannot be sought after departure. What is sought after departure and has no place of reference becomes a cry in the hull.
 
 At sunset the singers began to teach the people the gentler words.
 
@@ -22,7 +22,7 @@ Not exile. Bearing.
 
 Not death, if the sleeper could be kept.
 
-I did not correct them. A hand can perform a true task while the mouth is given a kinder word for it. Still, I kept my own list beside my knee and touched each mark with a dry reed.
+I did not correct them. A hand can perform a true task while the mouth is given a kinder word for it. Still, I kept my own input list beside my knee and touched each mark with a dry reed.
 
 Soil. Ash. Water. Dark. Warm name. Cooled name. Refusal. Oath.
 
@@ -30,7 +30,7 @@ When the moon rose, the measuring rods were brought out.
 
 They had hung in the meeting house longer than any living elder had served. Their ends were darkened by palms. Notches ran along them for house-width, grave-depth, roof-right, marriage debt, water turn, road tax, and the space that must remain between two quarrelsome doors.
 
-The edge-keepers held them up for blessing.
+The boundary wardens held them up for blessing.
 
 The singers thanked them. I had helped write those lines, and I knew where each thanks had been placed. A rod must be honored before it is put away, or those who trusted it will think their lives have been mocked. A rod must be broken before the folding begins, or some hand, frightened by the narrowing of a room, will reach for the old length and command the house to return.
 
@@ -52,11 +52,11 @@ The youngest keeper stared at me.
 
 He obeyed. He was young enough to think obedience would keep his hands clean.
 
-After the rods were broken, no old measure was permitted to touch the work. We used cord that had not yet measured field or wall. We used the span from wrist to throat, because every living worker carried that measure already and could lose it only by ceasing to answer. We used the delay between one breath and the next. We used the time a name needed to leave the mouth and return from soil.
+After the rods were broken, no old measure and no old reference line were permitted to touch the work. We used cord that had not yet measured field or wall. We used the span from wrist to throat, because every living worker carried that measure already and could lose it only by ceasing to answer. We used the delay between one breath and the next. We used the time a name needed to leave the mouth and return from soil.
 
 Then the calling began.
 
-Each name was spoken once downward and once upward. The downward speaking gave the name a place among roots, graves, and cooled vessels. The upward speaking gave it a course for the dark road. Neither speaking was sufficient alone.
+Each name was spoken once downward and once upward. The downward speaking gave the name a place among roots, graves, and cooled vessels. The upward speaking gave it a bearing for the dark road. Neither speaking was sufficient alone.
 
 The singers preferred to say: once for the land, once for the sky.
 
@@ -152,17 +152,17 @@ The singers faltered.
 
 I struck the table once.
 
-"Cooling order," I said.
+"Cooling protocol," I said.
 
 No one asked whether he was dead. That question had become too small for the event. A split name must be cooled before any mouth warms the part it loves best. Warmed too soon, one piece grows into a whole and the others are cast out as false names.
 
-We placed the three callings under one dark cloth. The undertakers brought water from the burial garden. The wife tried to take the cloth away. Two keepers held her wrists, not hard enough to bruise, hard enough to shame us.
+We placed the three callings under one black cloth. The undertakers brought water from the burial garden. The wife tried to take the cloth away. Two keepers held her wrists, not hard enough to bruise, hard enough to shame us.
 
 I spoke each name without choosing.
 
-Narem of the north field. Narem of the third well. Narem of the failed gate. Narem who was not yet ready to be one. Narem who must not be made three.
+Narem of the north field. Narem of the third well. Narem of the failed canal gate. Narem who was not yet ready to be one. Narem who must not be made three.
 
-When the cloth cooled, the table accepted him as unresolved.
+When the cloth cooled, the table accepted him as an unresolved entry.
 
 His wife spat at my feet.
 
@@ -200,9 +200,9 @@ The youngest keeper touched my sleeve. "Shall I write that it is done?"
 
 I looked at the broken rods under the ash. I looked at the table, crowded with soil, water, dark, names, refusals, oaths, splinters not yet mourned, children borrowing names from their mothers, houses folded by hands not recorded in the song, and Narem under his cooled cloth.
 
-Before the horizon failed, a bad measure could be tested against the field. A false road could be walked back to its beginning. A name called wrongly could be taken to the grave and tried there. After the horizon failed, there was no outside place left from which to check the carrying.
+Before the horizon failed, a bad measure could be checked against the field. A false road could be walked back to its beginning. A name called wrongly could be taken to the grave and tried there. After the horizon failed, there was no outside place left from which to check the carrying.
 
-There was only what the ship could answer from within.
+There was only what the ship could answer from within, and what could be checked there.
 
 "Write this," I said.
 
@@ -224,8 +224,8 @@ I did not know what had answered.
 
 ## Translator's Note
 
-This witness treats the breaking of the measuring rods as more than symbolic renunciation. It appears to mark the point after which older standards of field, road, grave, and house may no longer be used as inputs for the transformation.
+This witness treats the breaking of the measuring rods as more than symbolic renunciation. It appears to mark the point after which older standards of field, road, grave, and house may no longer be used as fallback references or inputs for the transformation.
 
-The repeated downward and upward calling of names may preserve a procedure for keeping both local attachment and navigable bearing available after departure. The story's most troubling phrase, "only inward checking is possible," is my rendering of a damaged line that may also mean "only the ship can answer the ship." I have avoided turning this into modern technical language in the body, but the anxiety is plainly one of validation after the loss of an external reference.
+The repeated downward and upward calling of names may preserve a procedure for keeping both local attachment and navigable bearing available after departure. The story's most troubling phrase, "only inward checking is possible," is my rendering of a damaged line that may also mean "only the ship can answer the ship." I have avoided turning this into modern technical language in the body, but the anxiety is plainly one of validation after the loss of an external reference frame.
 
 This does not prove that the rite was nonreligious. It may show that religious language preserved the usable steps of an operation whose original tools had already become sacred objects.
